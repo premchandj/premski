@@ -127,7 +127,7 @@ define("TEXTAREA_COLS_PERCENTAGE", 45);
 
 
 define("PREM_REAL_USER_NAME", 'prem');
-define("PREM_REAL_USER_PASSWORD", 'asdasdasd');
+define("PREM_REAL_USER_PASSWORD", '');
 define("PREM_REAL_EMAIL", 'pcj_1@yahoo.com');
 
 define("USER_TYPE_NORMAL", 'NORMAL');
