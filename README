@@ -1,1 +1,18 @@
- First commit
+DATE: NOV 15, 2006
+
+CORE FILES:
+==========
+   * README.txt
+   * page_gen.php
+   * include1.php
+   * include2.php
+   * helper.pl
+   * get_bloglines_js_file.php
+   * all.js
+   * images
+      * closed.gif
+      * doc.gif
+      * feedback.gif
+      * open.gif
+      * prem.gif
+      * rssfeed.gif
