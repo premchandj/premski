@@ -1,0 +1,3578 @@
+===
+9 ball problem
+puzzle
+You are given 9 billiard balls. All of them are equal weight except for
+one, which is heavier than the rest. You are given a weighing balance
+(no standard weights to compare it with, can only compare it with other
+balls). What is the minimum number of weightings to find out the heavier
+ball.
+===
+12 ball problem
+puzzle
+You are given 12 billiard balls. All of them are equal weight except for
+one, which is heavier than the rest. You are given a weighing balance
+(no standard weights to compare it with, can only compare it with other
+balls). What is the minimum number of weightings to find out the heavier
+ball.
+===
+12 ball problem with a twist
+puzzle
+There are twelve identical-looking balls, but one is either heavier or
+lighter than the other eleven. How can you determine which is the odd
+ball and find out whether this ball is heavier or lighter than the
+others using only three weighings with a balance?
+===
+Fox chicken river crossing
+puzzle
+A man has to get a fox, a chicken, and a sack of corn across a river. He
+has a rowboat, and it can only carry him and one other thing. If the fox
+and the chicken are left together, the fox will eat the chicken. If the
+chicken and the corn is left together, the chicken will eat the corn.
+How does the man do it?
+===
+Light switches problem
+switch,lateral thinking
+In your cellar there are three light switches in the OFF position. Each
+switch controls 1 of 3 light bulbs on floor above. You may move any of
+the switches but you may only go upstairs to inspect the bulbs one time.
+How can you determine the switch for each bulb with one inspection??
+===
+3 black hats and 2 white hats problem
+puzzle
+There are 3 black hats and 2 white hats in a box. Three men (we will
+call them A, B, & C) each reach into the box and place one of the hats
+on his own head. They cannot see what color hat they have chosen. The
+men are situated in a way that A can see the hats on B & C\'s heads, B
+can only see the hat on C\'s head and C cannot see any hats. When A is
+asked if he knows the color of the hat he is wearing, he says no. When B
+is asked if he knows the color of the hat he is wearing he says no. When
+C is asked if he knows the color of the hat he is wearing he says yes
+and he is correct. What color hat and how can this be? There is no play
+on words and there are no tricks. If I used had instead of has it is
+purely accidental.
+===
+Fork in the road
+puzzle
+You are ill and travelling down a road to the hospital. You reach a fork
+in the road and find a pair of identical twin boys standing there. One
+of the twins always tells the truth and the other twin always lies. You
+are allowed to direct only one question to one of the twins, and as such
+you will be assured of the correct road to the hospital. What is your
+question and to whom?
+===
+Whats next in the series?
+next in series
+8, 5, 4, 9, 1, 7, 6, Whats next in the series?
+===
+yet another find-the-odd-ball out problem
+puzzle
+You are given 10 baskets. 9 of the baskets each have 10 balls weighing
+10kg per ball, however one basket has 10 balls weighing 9kg each. All
+the balls and baskets are identical in appearance. You are asked to
+determine which basket contains the 9kg balls. You have a suitable
+scale, but may only take a single measurement. No other measurements may
+be taken (like trying to determine by hand). You may remove balls from
+the baskets but may still only take one measurement. How do you do it?
+===
+Hour glass problem
+puzzle
+You have two hourglasses--a 4-minute glass and a 7-minute glass. You
+want to measure 9 minutes. How do you do it?
+===
+Rectangular cake problem
+puzzle
+Given a rectangular (cuboidal for the puritans) cake with a rectangular
+piece removed (any size or orientation), how would you cut the remainder
+of the cake into two equal halves with one straight cut of a knife?
+===
+Subarray with largest sum
+algorithms,coding,arrays
+You\'re given an array containing both positive and negative integers
+and required to find the subarray with the largest sum (O(N) a la KBL)
+Write a routine in C for the above
+===
+Array duplicate detection
+algorithms,arrays,coding
+Given an array of size N in which every number is between 1 and N,
+determine if there are any duplicates in it. You are allowed to destroy
+the array if you like
+===
+putchar
+coding,c,c++
+Given only putchar (no sprintf, itoa, etc.) write a routine putlong that
+prints out an unsigned long in decimal.
+===
+power of 2 problem
+coding,bit manipulation
+Give a one-line C expression to test whether a number is a power of 2
+===
+Reverse words in string
+string,coding,algorithms
+Given an array of characters which form a sentence of words, give an
+efficient algorithm to reverse the order of the words (not characters)
+in it.
+===
+Global problem
+puzzle
+How many points are there on the globe where by walking one mile south,
+one mile east and one mile north you reach the place where you started.
+===
+Count set bits
+bit manipulation,coding
+Give a very good method to count the number of ones in a 32 bit
+number.(caution: looping through testing each bit is not a solution).
+===
+TIC TAC TOE
+coding,algorithms
+In a X\'s and 0\'s game (i.e. TIC TAC TOE) if you write a program for
+this give a fast way to generate the moves by the computer. I mean this
+should be the fastest way possible. The answer is that you need to store
+all possible configurations of the board and the move that is associated
+with that. Then it boils down to just accessing the right element and
+getting the corresponding move for it. Do some analysis and do some more
+optimization in storage since otherwise it becomes infeasible to get the
+required storage in a DOS machine.
+===
+How to multiply a number by 7
+bit manipulation,coding
+Give a fast way to multiply a number by 7.
+===
+String character deletion
+string,coding
+Given two strings S1 and S2. Delete from S2 all those characters which
+occur in S1 also and finally create a clean S2 with the relevant
+characters deleted.
+===
+String reversal
+string,coding
+Given an array of characters. How would you reverse it. ? How would you
+reverse it without using indexing in the array.
+===
+lowercase to uppercase
+string,coding
+Given a sequence of characters. How will you convert the lower case
+characters to upper case characters.
+===
+suitcase on a boat
+puzzle
+If you are on a boat and you throw out a suitcase, Will the level of
+water increase.
+===
+Payroll problem
+puzzle
+You\'ve got someone working for you for seven days and a gold bar to pay
+them. The gold bar is segmented into seven connected pieces. You must
+give them a piece of gold at the end of every day. If you are only
+allowed to make two breaks in the gold bar, how do you pay your worker?
+===
+Train and bird problem
+puzzle
+One train leaves Los Angeles at 15mph heading for New York. Another
+train leaves from New York at 20mph heading for Los Angeles on the same
+track. If a bird, flying at 25mph, leaves from Los Angeles at the same
+time as the train and flies back and forth between the two trains until
+they collide, how far will the bird have traveled?
+===
+Mirror problem
+puzzle
+Imagine you are standing in front of a mirror, facing it. Raise your
+left hand. Raise your right hand. Look at your reflection. When you
+raise your left hand your reflection raises what appears to be his right
+hand. But when you tilt your head up, your reflection does too, and does
+not appear to tilt his/her head down. Why is it that the mirror appears
+to reverse left and right, but not up and down?
+===
+Pill weighing problem
+puzzle
+You have 4 jars of balls. Each ball is a certain weight, except for
+contaminated balls contained in one jar, where each ball is weight + 1.
+How could you tell which jar had the contaminated balls in just one
+measurement?
+===
+Measurement problem
+puzzle
+If you had an infinite supply of water and a 5 quart and 3 quart pail,
+how would you measure exactly 4 quarts?
+===
+Baseball tournament
+puzzle
+97 baseball teams participate in an annual state tournament. The way the
+champion is chosen for this tournament is by the same old elimination
+schedule. That is, the 97 teams are to be divided into pairs, and the
+two teams of each pair play against each other. After a team is
+eliminated from each pair, the winners would be again divided into
+pairs, etc. How many games must be played to determine a champion?
+===
+Boxes and locks
+puzzle,coding
+You want to send a valuable object to a friend. You have a box which is
+more than large enough to contain the object. You have several locks
+with keys. The box has a locking ring which is more than large enough to
+have a lock attached. But your friend does not have the key to any lock
+that you have. Note that you cannot send a key in an unlocked box, since
+it might be copied. How is this done?
+===
+Bookworm problem
+puzzle
+A bookworm eats from the first page of an encyclopedia to the last page.
+The bookworm eats in a straight line. The encyclopedia consists of ten
+1000-page volumes and is sitting on a bookshelf in the usual order. Not
+counting covers, title pages, etc., how many pages does the bookworm eat
+through?
+===
+Missing money
+puzzle
+It is a dark and stormy night when three travelers must stop in hotel.
+They approach the front desk, where the front desk clerk informs them of
+the rate of $30 for three men in one room. The men each hand over a $10
+bill for a total of $30. They are given a key and go to their room.
+Moments later, the manager is informed of the transaction and reprimands
+the clerk, reminding him of the 3 men/1 room special of $25 a night. The
+manager asks the clerk to refund the $5 to the men. Taking five $1 bills
+from the register, he goes to the men\'s room and knocks on the door.
+While he waits for the men to come to the door, he realizes a problem.
+How can he divide the 5 $1 bills evenly among the men? When they answer
+the door, he tells them that there was a special that night and that the
+total bill only came to $27. He gave them each $1 as a refund, and the
+sneaky clerk made off with $2 for himself. Though it seems everyone came
+out a winner, a problem occurs. In the beginning, $30 was paid. In the
+end, however, the man had paid a collective $27, and the clerk had $2.
+$27 + $2 =$29, not $30. The question is: where is the extra dollar?
+===
+4 men on a bridge
+puzzle
+There are four men who would all like to cross a rickety old bridge.
+(Perhaps it is more accurate to say that they\'d like to get to the
+other side.) The old bridge will only support 2 men at a time, and it is
+night time, so every crossing must use the one flashlight that they all
+share. The four men each have different walking speeds; the fastest each
+of them can cross is 1 minute, 2 minutes, 5, minutes, and 10 minutes. If
+they pair up, since they must share the flashlight, they can only cross
+in the time that it would take the slower of the two. Given that the
+shortest time to get them all across is 17 minutes total, how should
+they all cross?
+===
+Hallway locker problem
+puzzle
+Say that we have a hallway with n lockers, numbered sequentialy from 1
+to n. The lockers have two possible states, open and closed. Initially
+all the lockers are closed. The first kid who walks down the hallway
+flips every locker to the opposite state, that is, opens them all. The
+second kid flips the first locker door and every other locker door to
+the opposite state, that is, closes them. The third kid flips every
+third door, opening some, closing others. The fourth kid does every
+fourth door, etc. After n kids have passed down the hallway, which
+lockers are open, and which are closed?
+===
+Sequence problem
+next in series
+Consider the sequence that begins with {1, 11, 21, 1211, 111221}. Find a
+rule that describes the sequence, and give the next term. Obviously,
+there are an unlimited number of rules that can describe the sequence.
+===
+Back to algebra
+math,puzzle
+Let the letters: A, B, C, D, E, F, G, H, and I be representative of the
+numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 in no particular order. If we let
+A+B+C=C+D+E=E+F+G=G+H+I=13, then what must E be?
+===
+Brothers on an elevator problem
+puzzle
+Two brothers were running up an escalator which is moving up as well.
+The older brother ran three times as quickly as his younger brother. The
+older brother counted 75 step as he ran up while his brother counted 50
+step. How many steps in the visible part of the escalator?
+===
+Soldiers and the dog
+puzzle
+There is a column of soldiers fifty feet long. At the end of the line
+there is a dog. The dog begins to run forward at exactly the same time
+that the column begins to march forward. The dog runs to the head of the
+column and then, without loosing any time he turns back and and runs
+towards the rear of the column. He gets to the end of the line of
+soldiers just as the column advances 50 feet. What is the distance
+covered by the dog? (Assume that both the dog and the soldiers travel at
+constant speeds.)
+===
+BillG and his gloves
+puzzle
+Bill Gates is about to give 3 distinct awards, 1 each, to 3 different
+distinguished developers. He needs to hand 1 award to each developer and
+then shake the developer\'s hand. However, all 4 people involved in this
+ceremony have a separate disease. If Bill shakes Developer 1\'s hand
+(without protection), Bill will contract Developer 1\'s disease and
+Developer 1 will contract Bill\'s disease (and so on for all of the
+others). The only protection Bill has available at this ceremony is a
+pair of normal, plain gloves. The ceremony cannot be delayed and Bill
+must think of a quick solution before he embarrasses himself. Given this
+information, how can Bill proceed?
+===
+Triangles
+puzzle
+How can you form 4 triangles with only 6 matches? You cannot light,
+bend, break, mutilate, etc... the matches. Nor can you overlap the matches.
+===
+Time measurement problem
+puzzle
+There are two long wooden rods of arbitrary lengths. Each takes an hour
+to burn and each burns at its constant rate. Without measuring the
+length of the rods, how would you clock exact 45 min provided that you
+are given as many matchsticks as you need to burn the wood
+===
+Array duplication problem
+arrays,duplication
+Given an array of length N containing integers between 1 and N,
+determine if it contains any duplicates.
+===
+Array sorting problem
+arrays,sorting
+Sort an array of size n containing integers between 1 and K, given a
+temporary scratch integer array of size K.
+===
+Removing duplicates in array
+arrays,duplication
+An array of size k contains integers between 1 and n. You are given an
+additional scratch array of size n. Compress the original array by
+removing duplicates in it. What if k << n?
+===
+Sum of array elements
+arrays,coding
+An array of integers. The sum of the array is known not to overflow an
+integer. Compute the sum. What if we know that integers are in 2\'s
+complement form?
+===
+Permutation problem 1
+probability,coding
+An array of integers of size n. Generate a random permutation of the
+array, given a function rand_n() that returns an integer between 1 and
+n, both inclusive, with equal probability. What is the expected time of
+your algorithm?
+===
+Pointer problem
+coding
+An array of pointers to (very long) strings. Find pointers to the
+(lexicographically) smallest and largest strings.
+===
+Linked list deletion problem
+linkedlist
+Under what circumstances can one delete an element from a singly linked
+list in constant time?
+===
+Linked list loop detection
+linkedlist
+Given a singly linked list, determine whether it contains a loop or not.
+===
+Linked list print in reverse order
+linkedlist
+Given a singly linked list, print out its contents in reverse order. Can
+you do it without using any extra space?
+===
+Binary tree traversal
+binarytrees
+Given a binary tree with nodes, print out the values in
+pre-order/in-order/post-order without using any extra space.
+===
+Linked list reversal
+linkedlist
+Reverse a singly linked list a) recursively. b) non-recursive
+===
+Bit reversal
+bit manipulation
+Reverse the bits of an unsigned integer.
+===
+Count set bits
+bit manipulation
+Compute the number of ones in an unsigned integer.
+===
+Compute log
+math,coding
+Compute the discrete log of an unsigned integer.
+===
+Set the highest bit to zero
+bit manipulation
+Set the highest significant bit of an unsigned integer to zero.
+===
+Function evaluation
+math,puzzle
+Let f(k) = y where k is the y-th number in the increasing sequence of
+non-negative integers with the same number of ones in its binary
+representation as y, e.g. f(0) = 1, f(1) = 1, f(2) = 2, f(3) = 1, f(4) =
+3, f(5) = 2, f(6) = 3 and so on. Given k >= 0, compute f(k).
+===
+Rectangle overlap
+puzzle,coding
+Write a function to check if two rectangles defined as below overlap or not.
+===
+SetPixel problem
+coding,bit manipulation
+Write a SetPixel(x, y) function, given a pointer to the bitmap. Each
+pixel is represented by 1 bit. There are 640 pixels per row. In each
+byte, while the bits are numbered right to left, pixels are numbered
+left to right. Avoid multiplications and divisions to improve performance.
+===
+Disk IO
+coding,system
+You, a designer want to measure disk traffic i.e. get a histogram
+showing the relative frequency of I/O/second for each disk block. The
+buffer pool has b buffers and uses LRU replacement policy. The disk
+block size and buffer pool block sizes are the same. You are given a
+routine int lru_block_in_position (int i) which returns the block_id of
+the block in the i-th position in the list of blocks managed by LRU.
+Assume position 0 is the hottest. You can repeatedly call this routine.
+How would you get the histogram you desire?
+===
+multiple-reader-single-writer lock
+coding,threading
+Implement a multiple-reader-single-writer lock given a compare-and-swap
+instruction. Readers cannot overtake waiting writers.
+===
+Multi byte characters problem
+string,coding
+A character set has 1 and 2 byte characters. One byte characters have 0
+as the first bit. You just keep accumulating the characters in a buffer.
+Suppose at some point the user types a backspace, how can you remove the
+character efficiently. (Note: You cant store the last character typed
+because the user can type in arbitrarily many backspaces)
+===
+Overflow problem
+coding
+What is the simples way to check if the sum of two unsigned integers has
+resulted in an overflow.
+===
+n-ary tree
+algorithms,coding,tree
+How do you represent an n-ary tree? Write a program to print the nodes
+of such a tree in breadth first order.
+===
+Linked list Array difference
+linkedlist,coding,algorithms
+What\'s the difference between a linked list and an array?
+===
+Linked list sorting
+linkedlist,coding,algorithms
+Implement an algorithm to sort a linked list.
+Why did you pick the method you did?
+===
+Sort array
+arrays,coding,algorithms
+Implement an algorithm to sort an array. Why did you pick the method you
+did?
+===
+strstr
+string,coding
+Implement strstr() , fprintf, printf(or some other string library function).
+===
+Card shuffling
+random,coding,algorithms
+Give me an algorithm to shuffle a deck of cards, given that the cards
+are stored in an array of ints.
+===
+String function 2
+string,coding
+Write a function that takes in a string parameter and checks to see
+whether or not it is an integer, and if it is then return the integer value.
+===
+String permutation
+string,coding
+Write a function to print all of the permutations of a string.
+===
+malloc
+coding
+Implement malloc.
+===
+Fibonacci numbers
+coding,fibonacci
+Write a function to print the Fibonacci numbers.
+===
+String copy
+string,coding
+Write a function to copy two strings, A and B. The last few bytes of
+string A overlap the first few bytes of string B.
+===
+Formula I problem
+algorithms,coding
+Puzzle & You are given a racing track(Formula I). Along the racing track
+are refueling stations(S0 to Sn-1). Each refueling station has 2
+things.<br>     1. No of gallons available at that station AND<br>
+2. No of miles to the next station.<br>Assuming the car you are driving
+travels M miles for every galon, you have to come up with a O(n)
+algorithm to pick the right starting point for your car, such that you
+will be able to complete a full lap(begin and end at the same station)
+===
+BST problem
+binarytrees,bst,coding
+Given a non-verified BST(Binary search tree), write a C/C++ code to
+verify if the BST is a valid one or not(basic BST rule-->data of all
+nodes under left node <= data of current node <= data of all nodes under
+right node)
+===
+Summing problem
+arrays,algorithms
+You are given a array, and a number M. Your goal is to find out which
+two numbers in the array when added up gives M
+===
+Sorting array of zeros and ones
+arrays,sorting,algorithms
+How will you sort an array of 0s and 1s.
+===
+Finding duplicates in very large array
+arrays,algorithms
+Given an very large array(lets say of size 10 million), and each element
+in the array is in the range of 1 to 10 million, how will you go about
+finding the duplicates in the array. (case 1) with unlimited main
+memory, 2) with 2 MB of main memory 3) less than 1 MB of main memory)
+===
+Machine stack growth
+coding,stack
+How would you find out if a machine\'s stack grows up or down in memory? write code to do it.
+===
+Merging 2 search trees
+bst,tree,algorithms
+Describe a way to merge two search trees.
+===
+Scrabble problem
+puzzle
+Solve a problem related to Scrabble. Give the candidate a set of 7
+tiles. e.g BAKODEX where B is 2 pts, A is 1, K is 3, ... X is 8. Give an
+algorithm to come up with a valid word which has the highest score.
+===
+Middle element of a singly linked list.
+linkedlist,algorithms
+Give an algo to find the middle element of a singly linked list.
+===
+Pythogoras triplets
+puzzle,coding
+Given an array, how will you go about printing all possible pythogoras
+triplets(x^2 + y^2 = z^2) in it.
+===
+Find value in sorted and rotated array
+arrays,puzzle,algorithms
+Given an array, which has been sorted and rotated, how will you go about
+finding the min element in it.
+===
+BST verification
+bst,algorithms
+Given a BST, give an approach to verify if it is a \'valid\' BST. Code it.
+===
+String rotation
+string,coding
+How will you (left)rotate a string by a certain number of positions. Ex
+INPUT: "a12345" shift-left by 2 OUTPUT: "2345a1"
+===
+In-order traversal
+tree,traversal,binarytrees,algorithms
+Write a c code (both recursive & non recursive) to do inorder traversal
+of a binary tree
+===
+Pre-order traversal
+tree,traversal,binarytrees,algorithms
+Write a c code (both recursive & non recursive) to do preorder traversal
+of a binary tree
+===
+Post-order traversal
+tree,traversal,binarytrees,algorithms
+Write a c code (both recursive & non recursive) to do postorder
+traversal of a binary tree
+===
+Level-order traversal
+tree,traversal,binarytrees,algorithms
+Write a c code to do levelorder traversal of a binary tree
+===
+Yet another string function
+string
+Write a function f(a, b) which takes two string arguments and returns a
+string containing only the characters found in both strings in the order
+of a. Write a version which is order N-squared and one which is order N.
+===
+Convert number to any base
+coding,c,c++
+Write code to convert an integer to any base(between 1 and 35)
+     * Using [0-9] & [a-z]
+===
+Find lowest common ancestor in BST
+bst,tree,traversal,binarytrees,algorithms
+Given 2 nodes in a BST, give an approach to find the lowest common
+ancestor. Code it.
+===
+Find lowest value in BST gt than a certain value
+bst,tree,traversal,binarytrees,algorithms
+Find the lowest valued node in a Binary Search Tree (BST) greater than
+or equal to a a certain value.
+===
+Finding m-th to last element of the linked list
+linkedlist,algorithms
+Given a singly linked list, devise an algo to find the m-th to last
+element of the list. Code it.(Ex. when m=0 the last element of the LL is
+returned).
+===
+List out anagrams for a string
+string,coding
+Given a dictionary of words, find all the sets of anagrams. For instance, \'pots\', \'stop\' and \'tops\' are all anagrams of one another because each can be formed by permuting the letters of the others.
+===
+Anagrams
+string,coding
+Giving Two Strings, write code to find out if they are anagrams or not.
+===
+First non-repeated char in string
+string,coding
+Write an efficient function to find the first non-repeated character in
+a string. (ex. the first non-repeated character in "teeter" is \'r\')
+===
+StrToInt function
+string,coding
+Implement "int StrToInt(char str[])"
+===
+IntToStr function
+string,coding
+Implement "void IntToStr(int num, char str[])"
+===
+String function
+string,coding
+Implement a function that prints all possible orderings of the
+characters in a string.
+     * Ex. INPUT: "hat" OUTPUT:tha, aht, tah, ath, hta, hat
+===
+Find K biggest elements an array
+arrays,algorithms,coding
+Write a function to find the K biggest elements in the array, and return
+the sum.
+===
+Array intersection problem
+arrays,algorithms,coding
+Given two arrays of signed integers, give an approach to find the
+intersecting set of the two arrays. Code it.
+===
+Print numbers(of array) which add up to a given value
+arrays,algorithms,coding
+Print out all integer pair combinations in an array where the sum is
+equal to N
+===
+Code to find the max_depth of a binary tree
+binarytrees,tree,algorithms,coding
+Write code to find the max_depth of a binary tree.
+===
+Array merge problem
+arrays,algorithms,coding
+You have two sorted integer arrays and the larger array has room for the
+second. Merge the smaller array into the larger one, in O(n) time and
+O(1) space.
+===
+Linked list palindrome detection
+linkedlist,palindrome
+Given a linked list of characters find if the string is a palindrome. Do
+not use any extra memory.
+===
+Search strings
+arrays,algorithms
+Given an array A[string], an array of strings where each string
+represents a word in a text document. Also given 3 search terms T1, T2,
+and T3 and 3 corresponding sorted sequences of integers S1, S2, and S3
+where each integer in Si represents an index in A where search term Ti
+occured (i.e. S1, S2, and S3 contain the locations of the search terms
+in our array of words). Now find a minimal subarray of A that contains
+all of the search terms T1, T2, and T3. Extend this algorithm for an
+arbitrary number of search terms.
+===
+Traverse leaf nodes of the binary tree
+binarytrees,tree,algorithms
+Write code to traverse leaf nodes of the binary tree
+===
+Array problem
+arrays,algorithms,coding
+You are given a 2-dimensional integer array Arr[M][N].  A few of the
+elements in this array are zero.  Write an algorithm such that if
+A[i][j] is zero, all the elements in row i and all the elements in
+column j should be set to 0.  In other words, if any element is zero,
+its entire row and column should be zero.
+===
+Squares problem
+puzzle
+Given a subset of natural integers {1,...,8}, place them on
+squares so that no two squares are consecutive in any direction. The
+diagram was arranged as 4 squares in the center, 2 above, 2 right, 2
+left, and 2 bottom. Told me to find at least one solution.
+===
+Picture rotation
+coding
+I have a HxW picture, 32 bit picture --> represented by int
+array. How do you rotate the picture by 90 degrees into a new array?
+Write the code
+===
+XML problem
+coding,algorithms
+Since XML is very verbose, you are given a way of
+encoding it where each tag gets mapped to a predefined integer value.
+The language/grammar looks like:
+Element --> Element Attr* END Element END [aka, encode the element tag,
+then its attributes, then tack on an END character, then encode its
+children, then another end tag]
+Attr --> Tag Value [assume all values are strings]
+END --> 01
+Tag --> some predefined mapping to int
+Value --> string value END
+- Coding: Write code to encode xml element (as char *) as Byte *
+- Algorithm: Is there anything else you could do to (in many cases)
+compress this even furthur?
+===
+Web adresses conversion
+coding,algorithms
+You know how web adresses convert spaces and such into special characters
+i.e., space == %20
+- given a string, convert the string to a string where all spaces are %20
+- what are the different ways to do it
+- what if unlimited memeory, what if you cant have any memory and the
+string has extra space at the end that isnt used (buffer)
+- what if you want to say if the string will cutoff and only convert if
+cut off
+===
+Linked list problem with a twist
+linkedlist,algorithms,coding
+Coding: You have a linked list
+struct node
+{
+int selected;
+struct node *next;
+struct node *child;
+}
+intitially all childs are null and it is just a linked list
+given a list with some marked and some not, make a linked list such that:
+there is a linked list of just the not_selected, then the last element
+in that list is an element without any data but its child is pointing to
+a linked list that has all the selected nodes (the last element of which
+points back to the one with the child node)
+- how would you traverse this new structure (even if there was a child
+that had other childs
+- what if that circular connection was cut, then how would you traverse it?
+- what if you can add a boolean value to the structure (that you can
+only set as you traverse). then how would you do it
+===
+bit manipulation problem
+bit manipulation
+You have a video card with memory. You can read and write to it.
+However, you can only write to it through a byte mask (if bit of byte
+mask ==1, then you can write to that bit, if == 0, the bit stays
+unchanged). Also, you can not read the byte mask (you can only change
+it). How do you determine what the value of the byte mask is (you can
+write to the video card as long as it is restored to the same condition
+as you left it)
+===
+String with unique chars
+string,algorithms
+Give the most efficient algorithm to determine if a string has all
+unique characters
+===
+Linked list transformation
+linkedlist,algorithms
+If you have existing list linked list, and you are given a new one...
+make as few updates as possible to transform the old list into the new one.
+===
+Represent 32 bit numbers as 8-character strings
+algorithms,coding
+Develop a way to represent 32 bit numbers as 8-character strings
+(including the null character, so 7 bits of data).  You can use 0-9 and
+a-z.  Code it on the board.  Develop unit test cases to test your code.
+===
+Find node in tree
+binarytrees,tree,coding,algorithms,queue
+Given a tree such that each node has a child and sibling, find a node in
+the tree.
+Prioritize the search by level (ie., check all siblings before
+children). Hint: use a queue
+===
+Find route between nodes in a directed graph
+graph,algorithms
+Given a directed graph with multiple nodes, design an algorithm to find
+out whether there is a route between node_a to node_b
+===
+BST problem
+bst,binarytrees,tree,coding,algorithms
+Imagine u have an unbalanced binary search tree. Now make a linked list
+of all the nodes at every depth(level) of the tree. Assume every node
+along with a left and a right pointer also has a next pointer. To make
+the linked list inside the binary tree for every level, the next pointer
+of the first node at every depth should point to the next node at the
+same depth in the tree and so on for the other nodes.What is the
+complexity of your algorithm. Improve the efficiency.Code the algorithm
+and then thoroughly test it?
+===
+Array to binary tree conversion
+arrays,binarytrees,tree,coding,algorithms
+Given a sorted (non-decreasing order) array, write an algorithm to
+create a binary tree with minimal height. Do this in O(n).
+===
+Random number generator
+random,algorithms
+Design a random number generator such that it selects â€˜mâ€™ random numbers
+from   an unsorted array of â€˜nâ€™ elements, where each element has equal
+probability of being picked. A number picked cannot be chosen again.
+===
+Corrupted Linked list problem
+linkedlist,algorithms
+There is a linked list. The last node could point back to any node in
+the list (including the head). Find the node in the list to which the
+last node points. Or in other words at which node does the circular
+linked list start.
+===
+Finding median on the fly
+arrays,algorithms
+Number are generated randomly and stored in an array. Write a program to
+find the median value of the array as and as new numbers are generated.
+Improve your solution.
+===
+Using ropes to measure time
+puzzle
+You have two ropes, each of which burns for exactly one hour. But, the
+ropes vary in density so you don\'t know that half of one rope will burn
+for 30 minutes. Given those two ropes and a book of matches, how would
+you time 15 minutes? (Note: you don\'t need to be able to hand someone a
+piece of rope that will take 15 minutes. You just need to be able to
+time 15 minutes)
+===
+Cheating wives
+puzzle
+A bunch of couples are on an island. A genie comes down and gathers the
+men together and tells them: "I know for a fact that at least one of
+your wives is cheating on you. So, if your wife is cheating on you, I\'m
+going to put a code on your head." The men then ask for a way to remove
+it, which she grants: "to remove it, you must dunk your wife under water
+at exactly midnight. If you are wrong, you die - so don\'t mess up. You
+will not be able to see or feel the crown on your head, but everyone
+else can. However, they are forbidden to tell you or signal in any way
+that you have a crown." How long does it take the men remove the crowns?
+(Assume there are n men and c crowns. The men do not know what c is)
+===
+Find missing number
+algorithms,arrays
+Given a consecutive list of numbers from a to b, one number is removed.
+The list is then scrambled.  Find the missing number.
+int find(int a, int b, int *array);
+hint: sum(1 to n) is n(n+1)/2
+using the same logic, sum(a to b) is (b-a)/2 * (b+a)
+===
+Chess board problem
+puzzle
+You have a chess board and you chop off two diaognally opposite corners.
+So initially the chess board had 64 squares, now it has 62. Now you are
+given 31 dominoes, each dominoe can occupy two squares of a chess
+board...arrange the dominoes to occupy the chess board squares
+===
+Number puzzle
+puzzle
+Given 3 1 3 6 = 8, add operators (only + - * /), parentheses, etc. to
+the expression above to make the equality true.
+===
+Matrix problem
+math
+If a 2-d matrix were to be represented in (a) row-major order and (b)
+column-major order, what would be the corresponding index given the
+indices of the 2-d matrix?
+===
+Building and egg problem
+puzzle
+There is a building of 100 floors. If an egg drops from the Nth floor or
+above it will break. If it\'s dropped from any floor below, it will not
+break. You\'re given 2 eggs. Find N, and minimize the number of drops
+for the worse case.
+===
+n pointed star
+coding,algorithms
+You have an n pointed star with points labeled 0, 1, ..., n-1 (assume
+points are numbered in order). You want to draw this star (imagine a
+kid\'s scribble for a 5-pointed star... That kind of star). Assume you
+have a function drawLine(int indexOne, int indexTwo) which can draw a
+line from one point of a star to another. Write a program to draw the star.
+===
+Game of master mind
+probability,coding
+You have four balls, and four different colors, as a solution. The user
+tries to guess the solution. If they guess the right color for the right
+spot, it counts as a \'hit\'. If it\'s the right color, but the wrong
+spot, it counts as a psuedo-hit. For example: if the solution is
+\'RGGB\' and the user guesses \'YRGB\' they have 2 hits and one pseudo
+hit. Write a program to, given a solution and a guess, calculate the
+number of hits and pseudo hits.
+===
+Overlapping rectangles problem
+puzzles,coding
+Many overlapping rectangles - want to return which (doesn\'t matter
+which one, if it\'s over several) rectangle the mouse is over.
+===
+Overlapping rectangles problem2
+puzzles,coding
+Write code to compute the intersection of 2 rectangles
+===
+What happens when you type a URL into a browser?
+general
+What happens when you type a URL into a browser?
+===
+Disk algorithm
+system,algorithms
+Lets say you have a disk of size N with N blocks. Every block stores
+part of a file. Every file starts from a single block. The block size is
+not enough to store a file. Every block has a used/unused bit and a
+pointer to the next block in the disk which will store the next part of
+the file and so on. A block which stores the end of a file points to
+null. Also a block whose unused bit is 0 doesnt point to anything and is
+not pointed to by any block. Now u have an index of files with filename
+as index and the value as the first block in which the file starts.Lets
+says u somehow lose these indices and values. How will you find an
+efficient algorithm to recreate this index structure with values. You
+can use any filenames while creating the indices.(While solving one shld
+think of cases where the file starts at block 4 which points to 1 then
+to 2 and ends at 3)
+===
+Linked list node swapping
+linkedlist
+Given a linked list of n elements. Swap(reference swap only) every group
+of k>=1 elements starting from the first element. Ran out of time on the
+swap procedure. Told me to show how far I gotten.
+===
+Prime no detection
+prime,coding
+Write code to detect whether or not a given number is prime
+===
+Find first non-duplicate character in a string
+coding,algorithms
+Find first non-duplicate character in a string
+"abcda" -> first non-duplicate \'b\'
+===
+DIR enhancement problem
+coding
+Given a new switch /x to the DIR command in DOS. Write a program that
+will take in this command and then sort the files in a folder by the
+first word in the first line of the file.
+So if file A has "Beginning" as the first word in the first line and
+file B has "After", the sort order will be file B then file A. (I would
+be interested in hearing different solutions on this question in particular)
+===
+Common words in 2 sentences
+string
+There are two sentences. Find the common words in the two sentences.
+===
+Queue using stacks
+queue,algorithms,coding,stack
+Write and algorithm to implement a Queue using 2 Stacks and write test
+cases for it
+===
+Tokenizing
+string,algorithms,coding
+Token a string on the basis if a given delimiter.
+e.g S is the base string and D is the delimiter (could be a sequence of
+any valid chars)
+S = ["who is the man who saw the eagle today went the wrong way?"]
+D = ["the"]
+Result = ["who is ", " man who saw ", " eagle today went ", " wrong way?"]
+===
+Robots problem
+puzzle,coding
+Two robots are each standing on a beacon, on a line of infinite length.
+They both execute the same code.  Write the code to have them collide.
+Only use these commands:
+SKIPNB - skip the next line of code if not on a beacon
+MVR - move right one step
+MVL - movel eft one step
+JMP - goto label in the code
+hint: have both robots move to the right in a loop. if a robot passes a
+beacon, double its speed.
+===
+Sum of digits of a given number
+math,coding
+Write a function that sums & returns the digits of an unsigned integer.
+===
+Swapping numbers in place
+coding
+Write a program to swap a number in place (ie, no temp variables)
+===
+Find first occurance of a string
+string
+Find the first occurence of a string in a multi-string. (multi-string
+means that you could have a string like "cat\0dog\0monkey\0\0". The true
+end of the series of strings occurs when you hit two null chars in a row)
+===
+Print linked list in reverse order
+linkedlist
+Code: print a linked list in reverse order
+- Can you do this in O(n) time, O(1) memory? [O(1) memory = no recursion]
+===
+Generating nth fibonacci number
+fibonacci,algorithms,coding
+function generate nth fibonnaci number
+- what\'s the largest n could be?
+===
+Serialize
+coding,algorithms
+Design an algorithm and write code to serialize a binary tree.  Discuss
+various solutions
+===
+Compare 2 binary trees
+binarytrees,tree,algorithms,coding
+Given two binary trees, find out if they are similar or not.
+===
+Streaming problem
+probability,algorithms,coding
+Assume your computer is reading characters one by one from a stream (you
+don\'t know the length of the stream before ending). Note that you have
+only one character of storage space (so you cannot save the characters
+you\'ve read to a something like a strong). When you\'ve finished reading
+you should return a character out of the stream with equal probability.
+===
+Log file mining problem
+coding
+Given two log files, each with a billion usernames (each username
+appended to the log file), find the usernames existing in both documents
+in the most efficient manner? Use pseudo-code or code. If your code
+calls pre-existing library functions, create each library function from
+scratch.
+===
+Linked list and a hash table mix
+linkedlist
+How could a linked list and a hash table be combined to allow someone to
+run through the list from item to item while still maintaining the
+ability to access an individual element in O(1) time?
+===
+Bar puzzle
+puzzle
+There is a bar with 25 seats in a line. The people there are anti-social
+so when they walk in the bar, they always try to find a seat farthest
+away from others. If one person walks in and find there is no seat are
+adjecent to nobody, that person will walk away. The bar owner wants as
+many people as possible. The owner can tell the first customer where to
+sit. all the other customers will pick the farthest possible seat from
+others. So where should the first customer sit.
+===
+Palindrome number
+palindrome,coding
+Check whether the bit representation of integer is a palindrome
+===
+Implement class Stack using a linked list.
+stack,linkedlist,coding,algorithms
+Implement class Stack using a linked list.
+===
+String problem
+string
+Write a function that would find the one value that occurs an odd number
+of times in an array. ie; function would return "r" if "ttttjjrll" is
+passed in.
+===
+Difference between process and thread.
+CS Fundamentals
+Whats the difference between a process and a thread? What are the per thread, and per process items?
+===
+Grasshopper problem
+coding,puzzle,algorithms
+A grasshopper wants to cross a river onto the other side. Partition the
+length he was to cross into intervals. Each interval either has a at
+most 1 stone or none. The grasshopper has to jump on the stones to cross
+the river. It has a speed which is the number of intervals/jump.
+Initially speed is 0. To get to the 1st stone, speed has to be 1. Given
+a boolean river array telling if an interval has a stone, call another
+recursive function to see if it\'s possible for the grasshopper to cross
+the river. Speed can only be decreased by one, same, or increased by one.
+===
+Endianess
+coding,system
+What is the difference between little and big endian? 
+Why do you care?
+Write a program to find whether a machine is big endian or little endian.
+===
+BST find key or closest to key
+bst,tree,binarytrees,algorithms,coding
+Given a binary search tree and a keyvalue, return the node that has
+value closest to the key.
+===
+IP address to DWORD
+coding
+Write code to convert an IP address into a DWORD
+===
+Logical address & page problem
+coding
+Write a program to check whether the given two logical addresses are in
+the same page.
+===
+Describe in English what this code does
+coding
+Describe in English what this code does:
+((n & (n-1)) == 0)
+===
+Binary numbers problem
+bit manipulation,algorithms
+A file contains millions of 30 bit binary numbers. Write an algorithm to
+efficiently place the pairs of numbers that are compliments of each
+other into another file
+===
+Number puzzle
+puzzle,math,algorithms
+Write an algorithm to find the 9 digit number without zeros containing
+distinct digits from 1 to 9 such that the number form upto to the nth
+digit is divisible by 9.Ie the number formed by 1st and 2nd digits must
+be divisible by 2, the number formed by 1 to 7 digits is divisible by 7
+and so on.
+===
+khanji problem
+string
+khanji has a LOT of characters in their alphabet and are using a way of
+compressing it so that the most common characters are 1 byte and the
+less common are 2 bytes. If it\'s a \'1 byte\' character, it starts with a
+0, If it\'s a 2 byte character, it starts with a 1. If you\'re at a
+particular character (at the beginning), how do you find where the
+previous character begins?
+===
+Polymorphism implementation
+c++
+How does C++ implement polymorphism? Explain with details.
+===
+Virtual destructor
+c++
+What is need of virtual destructor?
+===
+Can we have "Virtual Constructors"?
+c++
+Can we have "Virtual Constructors"?
+===
+Stack sorting problem
+stack,algorithms,coding
+Given a stack S, write a C program to sort the stack (in the ascending
+order).
+
+We are not allowed to make any assumptions about how the stack is
+implemented.
+The only functions to be used are:
+Push
+Pop
+Top
+IsEmpty
+IsFull
+===
+Rectangle of words
+puzzle,algorithms,coding
+Given a dictionary of millions of words, write a program to find the
+largest possible rectangle of letters such that every row forms a word
+(reading left to right) and every column forms a word (reading top to
+bottom).
+===
+Hash table to store phone nos
+hash,algorithms,
+Design a hash table to store phone #s. Your job is to write a hash
+function that has a parameter username, and generate a key. Username is
+unique, length 5 and can be A-Z, 0-9, space. Write a hash function that
+generate keys without collisions and use minimum memory.
+===
+A geometry/math problem
+math,puzzle
+Given a triangle and two intersecting line segments within the triangle,
+find the angle made by the intersection of these two segments.
+===
+Where are Global Variables stored in memory?
+coding,c,c++
+Where are Global Variables stored in memory?
+===
+Checkerboard puzzle
+puzzle
+You\'ve got an 8Ã—8 checkerboard and a bunch of dominoes that each fit
+nicely on two squares of the checkboard. You can easily tile the entire
+checkerboard with these dominoes. Now say that you remove two squares,
+one at one corner and the other at the opposite corner. You\'re left with
+62 squares. Can you tile this with the dominoes? If so, show how. If
+not, prove why not.
+===
+C++ const question
+c++
+In C++ what is the Difference between const pointer and pointer to const.
+===
+C++ difference between pointer & reference
+c++
+Whats the difference between a pointer and a reference variable ? 
+When should I use references, and when should I use pointers?
+===
+Double pointers
+coding,c,c++
+When do you use a double pointer?
+===
+Basketball tournament puzzle
+puzzle
+You have 5 basketball teams. You want them to play each other only once.
+Each team plays once a week. If a team plays a home game this week, They
+should play a aways game the coming week. How many weeks does it take
+for all the teams for play each other?
+===
+Ants on a triangle
+probability
+Three ants on different vertices of a triangle. All can walk on the
+sides of the triangle. Find the probability of them colliding.(collision
+could be between any two or all three).
+Now find the same for n vertex polygon with n ants.
+===
+C++ static
+c++
+How would you bring the effect in C++ of static functions without using
+static
+===
+Print a 2D array in spiral order
+arrays,algorithms,coding
+Print a 2D array in spiral order. For example
+
+1  2   3   4
+5  6   7   8
+9  10 11 12
+
+The above 2D array will yield,
+
+1 2 3 4 8 12 11 10 9 5 6 7
+===
+Joins
+databases,joins
+Explain the various joins
+1. CROSS JOIN
+2. NATURAL JOIN
+3. INNER JOIN
+4. OUTER JOIN
+5. SELF JOIN
+===
+The Oldest Plays the Piano
+puzzle
+Two MIT math grads bump into each other while shopping at Fryâ€™s. They haven\'t seen each other in over 20 years.
+
+First grad to the second: "How have you been?"
+Second: "Great! I got married and I have three daughters now."
+First: "Really? How old are they?"
+Second: "Well, the product of their ages is 72, and the sum of their ages is the same as the number on that building over there..."
+First: "Right, ok... Oh wait... Hmm, I still don\'t know."
+Second: "Oh sorry, the oldest one just started to play the piano."
+First: "Wonderful! My oldest is the same age!"
+
+How old was the first gradâ€™s daughter?
+===
+Yarr Maties
+puzzle
+Five pirates discover a chest full of 100 gold coins. The pirates are ranked by their years of service, Pirate 5 having five years of service, Pirate 4 four years, and so on down to Pirate 1 with only one year of deck scrubbing under his belt. To divide up the loot, they agree on the following:
+
+    The most senior pirate will propose a distribution of the booty. All pirates will then vote, including the most senior pirate, and if at least 50% of the pirates on board accept the proposal, the gold is divided as proposed. If not, the most senior pirate is forced to walk the plank and sink to Davy Jonesâ€™ locker. Then the process starts over with the next most senior pirate until a plan is approved.
+
+These pirates are not your ordinary swashbucklers. Besides their democratic leanings, they are also perfectly rational and know exactly how the others will vote in every situation. Emotions play no part in their decisions. Their preference is first to remain alive, and next to get as much gold as possible and finally, if given a choice between otherwise equal outcomes, to have fewer pirates on the boat.
+
+The most senior pirate thinks for a moment and then proposes a plan that maximizes his gold, and which he knows the others will accept. How does he divide up the coins? What plan would the most senior pirate propose on a boat full of 15 pirates?
+===
+Switches
+puzzle
+The warden meets with 23 new prisoners when they arrive. He tells them, "You may meet today and plan a strategy. But after today, you will be in isolated cells and will have no communication with one another.
+
+"In the prison is a switch room, which contains two light switches labeled A and B, each of which can be in either the \'on\' or the \'off\' position. I am not telling you their present positions. The switches are not connected to anything.
+
+"After today, from time to time whenever I feel so inclined, I will select one prisoner at random and escort him to the switch room. This prisoner will select one of the two switches and reverse its position. He must move one, but only one of the switches. He can\'t move both but he can\'t move none either. Then he\'ll be led back to his cell.
+
+"No one else will enter the switch room until I lead the next prisoner there, and he\'ll be instructed to do the same thing. I\'m going to choose prisoners at random. I may choose the same guy three times in a row, or I may jump around and come back.
+
+"But, given enough time, everyone will eventually visit the switch room as many times as everyone else. At any time anyone of you may declare to me, \'We have all visited the switch room.\' and be 100% sure.
+
+"If it is true, then you will all be set free. If it is false, and somebody has not yet visited the switch room, you will be fed to the alligators."
+
+What is the strategy they come up with so that they can be free?
+===
+Cars On the Road
+probability
+if the probability of observing a car in 20 minutes on a highway is 609/625, what is the probability of observing a car in 5 minutes (assuming constant default probability)?
+===
+Chameleons
+puzzle
+At one point, a remote island\'s population of chameleons was divided as follows:
+
+    * 13 red chameleons
+    * 15 green chameleons
+    * 17 blue chameleons
+
+each time two different colored chameleons would meet, they would change their color to the third one. (i.e.. If green meets red, they both change their color to blue.) is it ever possible for all chameleons to become the same color? why or why not?
+===
+Crazy Guy On The Airplane
+puzzle
+A line of 100 airline passengers is waiting to board a plane. they each hold a ticket to one of the 100 seats on that flight. (for convenience, let\'s say that the nth passenger in line has a ticket for the seat number n.)
+
+unfortunately, the first person in line is crazy, and will ignore the seat number on their ticket, picking a random seat to occupy. all of the other passengers are quite normal, and will go to their proper seat unless it is already occupied. if it is occupied, they will then find a free seat to sit in, at random.
+
+what is the probability that the last (100th) person to board the plane will sit in their proper seat (#100)?"
+===
+Wanna Play?
+probability
+I offer to play a card game with you using a normal deck of 52 cards.  the rules of the game are that we will turn over two cards at a time.  if the cards are both black, they go into my pile.  if they are both red, they go into your pile.  if there is one red and one black, they go into the discard pile.
+we repeat the two card flipping until we\'ve gone through all 52 cards.  whoever has more cards in their pile at the end wins.  i win if there is a tie.  if you win, i pay you a dollar.  how much would you pay to play this game?
+===
+100 factorial
+puzzle,math
+how many trailing zeroes are there in 100! (100 factorial)? How many 0\'s are at the end of N!
+hint: look at the prime factorization of N!
+===
+salary
+puzzle
+Three coworkers would like to know their average salary. how can they do it, without disclosing their own salaries?
+===
+nuggets
+puzzle,algorithms
+you can go to a fast food restaurant to buy chicken nuggets in 6-pack, 9-pack or 20-packs. is there such a number N, such that for all numbers bigger than or equal to N, you can buy that number of chicken nuggets?
+===
+boys and girls
+puzzle
+In a country in which people only want boys, every family continues to have children until they have a boy. if they have a girl, they have another child. if they have a boy, they stop. what is the proportion of boys to girls in the country?
+===
+calendar cubes
+puzzle
+A man has two cubes on his desk. every day he arranges both cubes so that the front faces show the current day of the month. what numbers are on the faces of the cubes to allow this?
+===
+painfully easy
+probability
+I flip a penny and a dime and hide the result from you. "one of the coins came up heads", i announce. what is the chance that the other coin also came up heads?
+===
+last ball
+probability
+you have 20 blue balls and 14 red balls in a bag. you put your hand in and remove 2 at a time. if they\'re of the same color, you add a blue ball to the bag. if they\'re of different colors, you add a red ball to the bag. (assume you have a big supply of blue & red balls for this purpose. note: when you take the two balls out, you don\'t put them back in, so the number of balls in the bag keeps decreasing). what will be the color of the last ball left in the bag?
+
+once you tackle that, what if there are 20 blue balls and 13 red balls to start with?
+===
+flipping coins
+probability
+someone walks into your room and dumps a huge bag of quarters all over the floor. they spread them out so no quarters are on top of any other quarters. a robot then comes into the room and is programmed such that if it sees a head, it flips it to tails. if it sees a tail, it throws it in the air. the robot moves around randomly forever. will there be a convergence in distribution of heads vs. tails?
+===
+Heaven
+probability
+A person dies, and arrives at the gate to heaven. there are three doors. one of them leads to heaven. another one leads to a 1-day stay at hell, and then back to the gate, and the other leads to a 2-day stay at hell, and then back to the gate. every time the person is back at the gate, the three doors are reshuffled. how long will it take the person to reach heaven?
+
+this is a probability question - i.e. it is solvable and has nothing to do with religion, being sneaky, or how au dente the pasta might be ;-)
+===
+noodles
+puzzle
+There is a pot of N noodles. (so there are 2N ends). a person randomly grabs two ends and merges them. the person keeps doing it, until there are no more noodles, (and only loops), left in the pot. what\'s the average number of loops in the pot?
+===
+clock
+puzzle
+part I: what is the angle between the minute hand and the hour hand at 3:15 on an analog clock? no, its not 0
+
+part II: how often does the minute hand pass the hour hand on an analog clock?
+===
+monty hall problem
+probability
+you are presented with three doors (door 1, door 2, door 3). one door has a million dollars behind it. the other two have goats behind them. you do not know ahead of time what is behind any of the doors.
+
+monty asks you to choose a door. you pick one of the doors and announce it. monty then counters by showing you one of the doors with a goat behind it and asks you if you would like to keep the door you chose, or switch to the other unknown door.
+
+should you switch? if so, why? what is the probability if you don\'t switch? what is the probability if you do.
+
+lots of people have heard this problem.. so just knowing what to do isn\'t sufficient. its the explanation that counts!
+===
+Bad king
+puzzle
+a bad king has a cellar of 1000 bottles of delightful and very expensive wine. a neighbouring queen plots to kill the bad king and sends a servant to poison the wine. (un)fortunately the bad king\'s guards catch the servant after he has only poisoned one bottle. alas, the guards don\'t know which bottle but know that the poison is so strong that even if diluted 1,000,000 times it would still kill the king. furthermore, it takes one month to have an effect. the bad king decides he will get some of the prisoners in his vast dungeons to drink the wine. being a clever bad king he knows he needs to murder no more than 10 prisoners - believing he can fob off such a low death rate - and will still be able to drink the rest of the wine at his anniversary party in 5 weeks time.
+
+explain how....
+===
+Sum it up
+arrays,coding
+You are given a sequence of numbers from 1 to n-1 with one of the numbers repeating only once. (example: 1 2 3 3 4 5). how can you find the repeating number? what if i give you the constraint that you can\'t use a dynamic amount of memory (i.e. the amount of memory you use can\'t be related to n)?
+what if there are two repeating numbers (and the same memory constraint?)
+===
+Palindromes
+palindrome
+The date October 2, 2001, in MMDDYYYY format will be a palindrome (same forwards as backwards).
+10/02/2001. when was the last date that this occurred on? (see if you can do it in your head!)
+===
+Red  & blue marbles
+probability
+You have two jars, 50 red marbles, 50 blue marbles. you need to place all the marbles into the jars such that when you blindly pick one marble out of one jar, you maximize the chances that it will be red. (when picking, you\'ll first randomly pick a jar, and then randomly pick a marble out of that jar) you can arrange the marbles however you like, but each marble must be in a jar.
+===
+Context switch speed
+system,coding
+Write a C program which measures the the speed of a context switch on a UNIX/Linux system.
+===
+Random number generator
+random
+Given a function which produces a random integer in the range 1 to 5, write a function which produces a random integer in the range 1 to 7.
+===
+Find median of numbers held in servers
+algorithms
+Given N computers networked together, with each computer storing N integers, describe a procedure for finding the median of all of the numbers. Assume that a computer can only hold O(N) integers (i.e. no computer can store all N^2 integers). Also assume that there exists a computer on the network without integers, that we can use to interface with the computers storing the integers.
+===
+Depth-first graph traversal
+tree,graph,traversal,algorithms
+Describe the algorithm for a depth-first graph traversal.
+===
+Encryption puzzle
+puzzle,encryption
+You need to check that your friend, Bob, has your correct phone number, but you cannot ask him directly. You must write a the question on a card which and give it to Eve who will take the card to Bob and return the answer to you. What must you write on the card, besides the question, to ensure Bob can encode the message so that Eve cannot read your phone number?
+===
+Size of C structure
+c,coding
+What is the size of the C structure below on a 32-bit system? On a 64-bit?
+
+struct foo {
+        char a;
+        char* b;
+};
+===
+Application crash debugging
+debugging
+You are given a the source to a application which is crashing when run. After running it 10 times in a debugger, you find it never crashes in the same place. The application is single threaded, and uses only the C standard library. What programming errors could be causing this crash? How would you test each one?
+===
+Congestion control in the TCP protocol.
+networking
+Explain how congestion control works in the TCP protocol.
+===
+Top 1 million search requests
+coding,algorithms
+Design and describe a system/application that will most efficiently produce a report of the top 1 million search requests. You are given:
+
+   1. You are given 12 servers to work with. They are all dual-processor machines with 4Gb of RAM, 4x400GB hard drives and networked together.(Basically, nothing more than high-end PC\'s)
+   2. The log data has already been cleaned for you. It consists of 100 Billion log lines, broken down into 12 320 GB files of 40-byte search terms per line.
+   3. You can use only custom written applications or available free open-source software.
+===
+Lost in a forest
+probability
+You are lost in a forest, and you are traveling in this road, and come to a T intersection. YOu have a coin which is biased(meaning it does not have a 50-50 distribution of heads-tails, but some other arbitrary combination(could be 70-30) ). How do use this coin in deciding whether to take left or right, with 50% probability?
+===
+Cutting the chocolate
+puzzle
+You have a chocolate bar which is in the form of a m X n grid. You are given a knife, and your goal is to split the bar into multiple smaller pieces(m X n). Stacking the bars is NOT allowed. How many cuts do you need to achieve this? (answer is "m*n-1" ). Later part of question: is this optimal. If yes, can you prove that this is the optimal solution.
+===
+Million number problem
+sorting
+You are given 1 million unique numbers.
+- How would you sort them?
+- What if i dont have enough main memory(RAM) to hold the data in memory
+- What if the data is 7 digits long(min:0000000 to max:9999999)
+===
+20!
+general
+How many ints would be required to store 20!
+===
+Permutations of numbers
+string,arrays
+Given n,k, write code to give all permutations of numbers of length \'k\', where each \'individual\' number can be in the range \'1 to n\'
+===
+How does a webserver work?
+general
+How does a webserver work?
+===
+Binary tree subsets
+binarytrees,tree,algorithms,coding
+Given a big tree and a small tree, give an algo to find if the small tree is a subset of the big tree
+===
+Prefix dump
+coding,algorithms
+Given an expression a + b * c, give code to do a prefix dump
+Ex. a + b * c
+|
+|
+V
+
++
+/ \
+a *
+/ \
+b c
+
+
+|
+| (PREFIX DUMP)
+V
+
++ a * bc
+===
+Sum of factorials
+coding,puzzle
+Given a number N, find the minimum set of factorial numbers which when added gives N
+===
+What is the next number in the sequence?
+next in series
+What is the next number in the sequence of 10, 9, 60, 90, 70, 66?
+===
+Multiplying letters
+puzzle
+Use a standard substitution cipher where a = 1...z = 26.  Find the English word that produces a value closest to 1 million when you multiply the letters together.
+===
+merging sorted streams
+coding,algorithms,stream
+Given k sorted streams where each stream could possibly be infinite in length, describe an efficient algorithm to merge the k streams into a new stream (also in sorted order).
+===
+Keys storage & access
+system
+Given a set of KEY->VALUE pairs such that each KEY is unique, describe a method of storing these pairs on disk, and a method for accessing the corresponding VALUE given a KEY. Assume that RAM is fixed at 1gb and the set of pairs requires 40gb.
+
+HINT: we are trying to minimize page-transfers
+===
+Sequence conversion
+puzzle,coding,algorithms
+Given the sequence S1 = {a,b,c,d,...,x,y,z,aa,ab,ac.... } and given that this sequence corresponds (term for term) to the sequence S2 = {1,2,3,4,....}
+Write code to convert an element of S1 to the corresponding element of S2. Write code to convert an element of S2 to the corresponding element of S1.
+===
+Tree inversion
+binarytrees,tree,coding
+Given a binary tree with the following constraints:
+a) A node has either both a left and right child OR no children
+b) The right child of a node is either a leaf or NULL
+
+write code to invert this tree. HINT: Draw this out
+===
+Square problem
+puzzle
+Given a square with side length = 1, describe all points inside square that are closer to the center of the square than to the edge of the square.
+===
+Data structure that supports push(), pop(), and min() all in O(1) time
+algorithms
+Design a data structure that supports push(), pop(), and min() all in O(1) time
+===
+Finding the next prime
+prime,algorithms,coding
+Given a number, describe an algorithm to find the next number which is prime.
+===
+Find the smallest numbers. in an array
+arrays,algorithms,coding
+Given \'N\' numbers in an unsorted array, find the \'k\' (\'k\' << \'N\') smallest numbers.
+===
+Implement an Encode function
+algorithms,coding
+Implement an Encode function. How do you make it more efficient..
+How do you handle consecutive special chars, what if its already
+encoded??
+===
+Implement strtok
+string,algorithms
+Implement strtok: How do you handle consecutive delimiters, end of
+string delimiters, and starting delimiters. How would u make it more
+efficient (the delimiter loop can be replaced by an associative array,
+what is the lenght of the array (255 - Can be reduced to 32)
+===
+BigInteger class
+coding
+Design BigInteger class which can handle integers of huge size
+(lets say 10000 digits). Write the code for Addition of two big
+integers. How do you handle sign
+===
+Find number repeated 50% or more times in an array
+coding,algorithms
+Given an array how do you find the number which gets repeated atleast 50% or more times. Example
+          2,1,2,7,2,2,5,8,2,2.......here 2 is the answer
+
+how do you do it in O(n).
+===
+Splitting coins on a table
+probability
+There is a table on which a number of coins are placed. You also know that there are as many coins with Head up as many coins with Tail up. Now you have to divide the coins (number of coins is even) into two equal piles such that number of coins with Heads up and Tails up in either piles be the same. The catch is you are blind folded and you cannot determine the sides (for sure) if you are blinded
+===
+Solve this cryptic equation
+math
+Solve this cryptic equation, realizing ofcourse that values for M and E could be interchanged. No leading zeros are allowed
+WWWDOT - GOOGLE = DOTCOM
+===
+Haiku
+general
+Write a haiku describing possible methods for predicting search traffic seasonality
+===
+Coloring an icosahedron
+algorithms,puzzle
+How many different ways can you color an icosahedron with one of three colors on each face
+What colors would you choose?
+===
+Triangle problem
+math,puzzle
+given a triangle ABC, how would you use only a compass and a straight edge to find a point P such that triangles ABP, ACP & BCP have equal perimeters?(Assume that ABC is constructed so that a solution does exist)
+===
+Function problem
+math
+Consider a function which, for a given whole number n, returns the number of ones required when writing out all numbers between 0 and N. For example f(13)=6. notice that f(1)=1. What is the next largest n such that f(n)=n ?
+===
+Knack
+math
+Tis known in refined company, that choosing K things out of N can be done in ways as many as choosing N minus K from N. I pick K, you the remaining.
+Find though a cooler bijection, where you show a knack uncanny, of making your choices contain all K of mine. Oh for pedantry: let K be no more than half N.
+===
+What number comes next in the sequence:
+next in series
+10, 9, 60, 90, 70, 66,?
+
+A)96
+B) 1000000000000000000000000000000000
+0000000000000000000000000000000000
+000000000000000000000000000000000
+C) Either of the above
+D) None of the above
+===
+Shopkeeper Problem
+puzzle
+What is the Shopkeeper Problem?
+===
+Disk interleaving
+system,CS Fundamentals
+what is disk interleaving? why is disk interleaving adopted?
+===
+RSA for both authentication and secrecy?
+system,CS Fundamentals
+How do you use RSA for both authentication and secrecy?
+===
+What\'s the difference between a switch and a router?
+networking
+What\'s the difference between a switch and a router?
+===
+How do you do authentication with MD5?
+system,CS Fundamentals,system
+How do you do authentication with message digest(MD5)? (Usually MD is used for finding tampering of data)
+===
+Histogram
+system
+You, a designer want to measure disk traffic i.e. get a histogram showing the relative frequency of I/O/second for each disk block. The buffer pool has b buffers and uses LRU replacement policy. The disk block size and buffer pool block sizes are the same. You are given a routine int lru_block_in_position (int i) which returns the block_id of the block in the i-th position in the list of blocks managed by LRU. Assume position 0 is the hottest. You can repeatedly call this routine. How would you get the histogram you desire?
+===
+Multiple-reader-single-writer lock
+threading
+Implement a multiple-reader-single-writer lock given a compare-and-swap instruction. Readers cannot overtake waiting writers.
+===
+What is pipelining?
+CS Fundamentals
+What is pipelining? List the 5 stages of a 5 stage pipeline. Assuming 1 clock per stage, what is the latency of an instruction in a 5 stage machine? What is the throughput of this machine ?
+===
+What are the types of memory management?
+CS Fundamentals
+What are the types of memory management?
+===
+Resistance between nodes
+puzzle,algorithms
+On an infinite, two-dimensional, rectangular lattice of 1-ohm resistors, what is the resistance between two nodes that are a knight\'s move away?
+===
+Dogs in a square
+puzzle
+There are four dogs, each at the counter of a large square. Each of the dogs begins chasing the dog clockwise from it. All of the dogs run at the same speed. All continously adjust their direction so that they are always heading straight towards their clockwise neighbor. How long does it take for the dogs to catch each other? Where does this happen? (Hint: Dog\'s are moving in a symmetrical fashion, not along the edges of the square).
+===
+Disk spinning
+system
+Imagine a disk spinning like a record player turn table. Half of the disk is black and the other is white. Assume you have an unlimited number of color sensors. How many sensors would you have to place around the disk to determine the direction the disk is spinning? Where would they be placed?
+===
+Prime pairs
+prime
+Pairs of primes separated by a single number are called prime pairs. Examples are 17 and 19. Prove that the number between a prime pair is always divisible by 6 (assuming both numbers in the pair are greater than 6). Now prove that there are no \'prime triples.\'
+===
+Scrambled words
+coding,algorithms
+The SF Chronicle has a word game where all the letters are scrambled up and you have to figure out what the word is. Imagine that a scrambled word is 5 characters long:
+
+   1. How many possible solutions are there?
+   2. What if we know which 5 letters are being used?
+   3. Develop an algorithm to solve the word.
+===
+Painting blue & red
+math,probability
+If you have two buckets, one with red paint and the other with blue paint, and you take one cup from the blue bucket and poor it into the red bucket. Then you take one cup from the red bucket and poor it into the blue bucket. Which bucket has the highest ratio between red and blue? Prove it mathematically.
+===
+Wild card string matching.
+string,coding,algorithms
+Implement an algorithm to do wild card string matching.
+===
+Return unique elements in an array
+arrays,algorithms
+Implement an algorithm to take an array and return one with only unique elements in it.
+===
+What does this asm block do?
+asm
+The following asm block performs a common math function, what is it?
+
+cwd xor ax, dx
+sub ax, dx
+===
+Missing card
+probability
+You are given a stack of punched cards, each with m rows and  n columns. Come up with a algorithm to punch holes so that you can  find the missing cards (their sequences) in O(1) time. You can assume  that you are looking for a missing card and only one is missing out of
+all possibilities.
+===
+Binary search
+search
+Write the binary search function in a C language.
+===
+Compress a text file
+algorithms
+Write an algorithm to compress a text file
+===
+Absolute number generation
+coding,algorithms
+An absolute number is defined as one in which each digit is
+strictly smaller than the digit to its right (if any). For e.g. 123,
+478, 369 are all absolute numbers. 205, 485 are not. Write a program
+to calculate these.
+===
+String prefix
+string,algorithms
+You are given a list of strings of 0s and 1s. E.g. 10, 110, 01001, ...
+Devise an algorithm to check if any of the string is a prefix of another one.
+===
+Word count in a string
+string,algorithms
+Write an algorithm for finding the word count in a string / file
+===
+Vector implementation
+coding,system
+You are implementing a vector - an expandable container. The
+two possible choices on how to increase the size when the vector is
+full are - 1. Double the size, copy over the elements to the new
+vector. 2. Increase the size by a constant k (system default and user
+cannot configure this). Compare the 2 implementations
+===
+Binary tree problem
+binarytrees,tree,algorithms,coding
+You have a binary tree and the nodes contain an additional
+information - the number of elements in that tree (including itself).
+Write the function - nth(tree * t, int n) which would return the node
+which would be the nth node on an in-order traversal. Use the extra
+information (node count, stored as part of each node)
+===
+Number problem
+math,algorithms
+You have a list of numbers X1, X2, X3, ... Xn
+Populate the list Y with numbers Y1, Y2, Y3,...Yn, where Yi is the
+product of Y1 * Y2 * .. Y(i-1) * Y(i+1) * Y(i+2)...Yn
+What if you were not allowed to use division operator? Can you still
+compute the results in O(n * log n)? How about O(n)?
+===
+Plotter problem
+coding
+You are given a plotter which can plot points given as x and y coordinates? Given a list of points, write a program that will sort the points in such a way that the plotter hand will move the least.
+===
+Bit vectors
+coding,bit manipulation
+How would you implement bit vectors using logical operations(such as and, or and shift)?
+===
+Find duplicates in array with a twist
+arrays
+You are given an array on N elements. A number in the array can atmost appear 10 times. Find all elements in the array which appears more than 10 times in the array.
+===
+Array left rotation
+arrays
+Rotate an n-element vector left by  i positions in time proportional to n with just a dozen bytes of extra space. For instance, with n=8 and i=3, the vector abcdefgh is rotated to defghabc
+===
+Find the missing integer
+algorithms
+Given a sequential file that contains atmose 4-billion 32 bit integers in random order, find a 32-bit integer that isn\'t in the file(and there must be atleast one missing - why?). How would you solve this problem with ample quantities of main memory? How would you solve it if you could use several external "scratch" files but only a few hundred bytes of main memory?
+===
+Array problem
+arrays
+Given a set of n real numbers, a real number t, and an integer , how quicly can you determine whether there exists a k-element subset of the set that sums to at most t?
+===
+Banner function
+coding
+Write a "banner" function that is given a capital letter as input and produces  as output an array of characters that graphically depicts that letter.
+===
+7 segment displays
+coding,algorithms
+Seven segment displays provide an inexpensive display of the 10 decimel digits(0, 1,2,3,4,5,6,7,8,9). The seven segments are usually numbered as
+
+---2---
+|xxxxx|
+3xxxxx4
+|xxxxx|
+---1---
+|xxxxx|
+5xxxxx6
+|xxxxx|
+---0---
+
+
+Write a program that displays a 16-bit positive integer in five seven-segment digits. THe output is an array of five bytes; bit i of byte j is one if and only if the ith segment of the digit j should be on.
+===
+Coffee can problem
+probability
+You are initially given a coffee can that contains some black beans and some white beans and a large pile of \'extra\' black beans. You then repeat the following process until there is a single bean left in the can
+
+"Randomly select two beans from the can.If they are the same color, throw them both out and insert an extra black bean. If they are different colors, return the white bean to the can and throw out the black."
+
+Prove that the process terminates. What can you say about the color of the final remaining bean as a function of the number of black and white beans originally in the can.
+===
+Array subset with sum closest to zero
+arrays,algorithms
+Given an array, Design an algorithm to find the subvector with the sum closest to zero.
+extenstion: What if we wished to find teh subvector with the sum closest to a given real number t?
+===
+Turnpike problem
+coding,puzzle
+A turnpike consists of n-1 stretches of road between n toll stations; Each stretch has an associated cost of travel. It is trivial to tell the cost of going between any 2 stations in O(n) time using only an array of the costs, or in constant time using a table of O(n^2) entries. Describe a data structure that requires O(n) space but allows the cost of any route to be computed in constant time.
+===
+Array problem
+arrays,algorithms
+After the array x[0..n-1] is initialized so that every element is zero, n of the following operations are performed
+for i= [,u]
+x[i] += v;
+
+where l, u and v are parameters of each operation (l and u are integers satisfying 0 <= l <= u <= n, and v is a real number). after the n operations the values of x[0..n-1] are reported in order. The method just sketched required O(n^2) time. can you find a faster algorithm
+===
+Max rectangular subarray problem
+arrays
+You are given a n X n array of reals, and we must find the maximum sum contained in the rectangular subarray. What is the complexity of the problem?
+===
+count set bits in very long sequence
+bit manipulation
+Given a very long sequence(say billions or trillions) of bytes, how would you efficiently count the total number of one bits?(That is, how many bits are turned on in the entire sequence?)
+===
+Finding the kth smallest element in array
+arrays,algorithms
+Write a program for finding the kth smallest element in the array f x[0..n-1] in O(n) expected time. Your algorithm may permute the elements of x
+===
+Find the longest string occuring in 2 strings
+string
+Given 2 input strings, find the longest string that occurs in both.
+===
+Phone number problem
+coding
+Write a function that takes a seven-digit telephone number and prints out all the possible "words" or a combination of letters that can represent the given number. Because the 0 and 1 keys have no letters on them, you should change only the digits 2-9 to letters. Use the function prototype
+void PrintTelephoneWords(int PhoneNumber[]);
+where PhoneNumber is an array of seven integers with each element being one digit in the number. You  may assume that only valid phone numbers will be passed to your function. You may use the function
+char GetCharKey(int telephoneKey, int place)
+which takes a telephone key(0-9) and a place of either 1,2,3 and returns the character corresponding to the letter in that position on the specified key. For example GetCharKey(3,2) will return \'E\' because the telephone key 3 has the letters "DEF" on it, and \'E\' is the second letter.
+===
+Boat & Dock problem
+puzzle,math
+You are sittin in a small boat, holding the eng of a rope. The other end of the rope is tied to the top of a nearby pier, such that it is higher above the water than your end of the rope. You pull on the rope, causing your boat to move toward the pier, stopping directly underneath the pier. As you pull on the rope, which is faster, the speed the boat moves across the water or the speed the rope moves thru your hands?
+===
+Boys & train problem
+puzzle
+Two boys walking in the woods decide to take a shortcut thru a railroad tunel. When they had walked 2/3 of the way, their worst fears were realized. A train was coming in the opposite direction, nearing the tunnel entrance. They boys panicked and each ran for a different end of the tunnel. Both boys ran at the same speed, 10 miles per hour Each boy escaped from the tunnel just at the instant the train would have squashed him. Assuming the train\'s speed was constant, and both boys were capable of instantaneous reaction and acceleration, how fast was the train going?
+===
+Husband wife problem
+puzzle
+Every day, Joe arrives at the train station from work at 6pm. His wife leaves home in her car to meet him there at exactly 6pm, and drives him home. One day, Joe gets to the station an hour early, and starts walking home, until his wife meets him on the road. They get home 20 minutes earlier than usual. How long was he walking? Distances are unspecified. Speeds are unspecified, but constant.
+===
+Hostess
+puzzle,math
+A couple invites n-1 other couples to dinner. Once everyone arrives, each person shakes hands with everyone he doesn\'t know. Then, the host asks everyone how many hands they shook, and each person replies with a different number. Assuming that everyone knows his or her own spouse, how many hands did the hostess shake?
+===
+Base minus 2
+CS Fundamentals
+Write some code to convert a positive integer into base minus 2. That is, whereas base 2 has a 1\'s place, a 2\'s place, a 4\'s place, etc., base minus 2 has a 1\'s place, a minus 2\'s place, a 4\'s place, a minus 8\'s place, ... (-2)^n.
+===
+Which offer is better and why?
+puzzle
+Which offer is better and why?
+
+   1. You are to make a statement. If the statement is true, you get exactly $10. If the statement is false, you get either less than or more than $10 but not exactly $10.
+   2. You are to make a statement. Regardless of whether the statement is true or false, you get more than $10.
+===
+Airplane problem
+puzzle
+Consider three identical airplanes starting at the same airport. Each plane has a fuel tank that holds just enough fuel to allow the plane to travel half the distance around the world. These airplanes possess the special ability to transfer fuel between their tanks in mid-flight. Devise a scheme that will allow one airplane to travel all the way around the world, landing only at the original airport.
+===
+Elevator
+puzzle
+You are at the bottom of the elevator shaft of a 100 story building. You see 21 wires labelled 1...21. The wires go up to the 100th floor where the ends are labelled A...U, but you don\'t know how they correspond to the ends at the bottom. You have a battery, a light bulb, and many small wires. How can you determine the pairing between the numbers and letters by only making one trip to the 100th floor and back down?
+===
+Paddling woman
+puzzle
+A woman starts paddling upstream in a canoe, and after one mile, encounters a log floating with the current. She continues to paddle upstream for onehour, then turns around and paddles downstream, until she returns to the dock where she started. If the woman and the log reach the dock at exactly the same time, how fast was the current flowing? Assume all speeds are constant.
+===
+Medical problem
+puzzle
+You are on a strict medical regimen that requires you to take two types of pills each day. You must take exactly one A pill and exactly one B pill at the same time. The pills are very expensive, and you don\'t want to waste any. So you open the bottle of A pills, and tap one out into your hand. Then you open the bottle of B pills and do the same thing -- but you make a mistake, and two B pills come out into your hand with the A pill. But the pills are all exactly identical. There is no way to tell A pills apart from B pills. How can you satisfy your regimen and take exactly one of each pill at the same time, without wasting any pills?
+===
+Racetrack problem
+coding,puzzle,algorithms
+Consider a circular race track with n gas stations spaced along it, each containing a fixed amount of gas. You are given an array containing the distances between consecutive gas stations and an array containing the amount of gas at each. Suppose the total amount of gas at all the gas stations is the same as the number of miles around the race track. Your car gets one mile to the gallon, but its gas tank has an unlimited capacity. Where do you start your car along the race track to guarantee that you get all the way around without running out of gas? Do this in O(n) time
+===
+Spaceship
+puzzle
+You are on a spaceship that has a computer with n processors. Suddenly, the spaceship gets hit with an alien laser beam, and some of the processors are damaged. However, you know that more than half of the processors are still good. You can ask one processor whether it thinks another processor is good or bad. A good processor will always tell the truth, but a bad one will always lie. A \'step\' consists of asking one processor if it thinks another processor is good or bad. Find one good processor, only using n-2 steps.
+===
+Find the element
+arrays,coding
+Given an array of n integers, where one element appears more than n/2 times, find that element in linear time and constant extra space.
+===
+Create an equilateral triangle using three toothpicks
+puzzle
+Create an equilateral triangle using three toothpicks. Now add three more equilateral triangles of the same size as the original using only three more toothpicks.
+===
+Find 2 elements in set equal to a given value in O(n ln n) time
+coding,algorithms,sorting
+Describe a O(n ln n) - time algorithm that, given a set S of n real numbers and another real number x, determines whether or not there exists two elements in S whose sum is exactly x.
+===
+Find value of n
+algorithms,math
+What is the smallest value of n such that an algorithm whose running time is 100*n^2 runs faster than an algorithm whose running time in 2^n on the same machine
+===
+Coloring problem
+algorithms,math,puzzle
+You are given a bunch of lines(non-parallel), and they intersect each other(thereby forming multiple quadrilaterals(A polygon having four sides)). Given this, how many colors are needed to color the quadrilaterals, such that there are no 2 quadrilaterals, sharing a common edge, having the same color? why?
+===
+Seating problem
+algorithms,math,puzzle
+In how many ways can n professors sit around a cirular table? Consider two seatings to be the same if one can be rotated to form the other
+===
+Prisonor problem
+puzzle,probability,algorithms
+A prison warden has randomly picked one prisoner among three to go free. The other two will
+be executed. The guard knows which one will go free but is forbidden to give any prisoner
+information regarding his status. Let us call the prisoners X, Y, and Z. Prisoner X asks the
+guard privately which of Y or Z will be executed,arguing that since he already knows that at
+least one of them must die, the guard won\'t be revealing any information about his own status.
+The guard tells X that Y is to be executed. Prisoner X feels happier now, since he figures that
+either he or prisoner Z will go free, which means that his probability of going free is now 1/2.
+Is he right, or are his chances still 1/3? Explain
+===
+Quicksort
+algorithms,coding,sorting
+Explain quicksort. What is the average case runtime? best case? worst case? What is the depth of stack? what is the memory used?
+===
+Another sorting problem
+algorithms,coding,sorting
+How would you sort n integers in the range 1 to n^2 in O(n) time.
+===
+Stack
+algorithms,coding,stack
+Explain how to implement two stacks in one array in such a way that neither stack overflows unless the total number of elements in both stacks together in n. The push and pop operations should run in O(1) time.
+===
+What happens after a \'fork\' system call?
+CS Fundamentals
+What happens after a \'fork\' system call?
+===
+What is a race condition?
+CS Fundamentals
+What is a race condition?
+===
+What is swapping?
+CS Fundamentals
+What is swapping?
+===
+Virtual Memory
+system,CS Fundamentals
+Explain Virtual Memory.
+===
+Memory mapped files
+CS Fundamentals
+What is a memory mapped file?
+===
+What is \'inode\'?
+system
+What is \'inode\'? How does the inode map to data block of a file?
+===
+Explain what is DMA?
+CS Fundamentals
+Explain what is DMA?
+===
+What is a deadlock?
+CS Fundamentals
+What is a deadlock?
+===
+What are the 3 segments in an unix process? explain them.
+CS Fundamentals
+What are the 3 segments in an unix process? explain them.
+===
+Cache
+CS Fundamentals
+What is caching? In a client-server system, each with main memory and hard disk, there are four potential places to store files(or part of files). What are they?
+===
+What is encapsulation? 
+c++,coding,oop
+What is encapsulation? 
+===
+What is multiple inheritance? What are its advantages and disadvantages?
+c++,coding,oop
+What is multiple inheritance? What are its advantages and disadvantages?
+===
+What is polymorphism? 
+c++,coding,oop
+What is polymorphism?
+===
+Difference between public, protected, and private members
+c++,coding,oop
+What is the difference between public, protected, and private members of a class? 
+===
+Difference between non-virtual and virtual functions
+c++,coding,oop
+What is the difference between non-virtual and virtual functions? 
+===
+What is a pure virtual function? 
+c++,coding,oop
+What is a pure virtual function? 
+===
+What is an abstract base class? 
+c++,coding,oop
+What is an abstract base class? 
+===
+What is a static member of a class? 
+c++,coding,oop
+What is a static member of a class? 
+===
+this object unchanged
+c++,coding,oop
+What feature of C++ would you use if you wanted to design a member function that guarantees to leave "this object unchanged? 
+===
+Overload a function 
+c++,coding,oop
+Can you overload a function based only on whether a parameter is a value or a reference? 
+===
+Difference between function overloading and function overriding
+c++,coding,oop
+What is the difference between function overloading and function overriding? 
+===
+Override
+c++,coding,oop
+Can derived class override some but not all of a set of overloaded virtual member functions inherited from the base class? 
+===
+Difference between assignment and initialization in C++
+c++,coding,oop
+What is the difference between assignment and initialization in C++? 
+===
+Copy constructors
+c++,coding,oop
+When are copy constructors called? Can a copy constructor accept an object of the same class as parameter, instead of reference of the object?
+===
+Copy constructor
+c++,coding,oop
+Why do you have to provide your own copy constructor and assignment operator for classes with dynamically allocated memory? 
+===
+C++ initializers
+c++,coding,oop
+Does compiler guarantee that initializers will be executed in the same order as they appear on the initialization list? 
+Why can\'t I initialize my static member data in my constructor\'s initialization list?
+===
+extern "C"
+c++,coding,oop
+What does extern "C" int func(int *, Foo) accomplish? 
+===
+Name mangling
+c++,coding,oop
+Why do C++ compilers need name mangling? 
+===
+Difference between a pointer and a reference
+c++,coding,oop
+What is the difference between a pointer and a reference? 
+===
+Access the static member of a class
+c++,coding,oop
+How can you access the static member of a class? 
+===
+prefix and postfix ++
+c++,coding,oop
+How are prefix and postfix versions of operator++() differentiated? 
+===
+Difference between delete and delete[]
+c++,coding,oop
+What is the difference between delete and delete[]? 
+===
+C++ initialization
+c++,coding,oop
+Name two cases where you MUST use initialization list as opposed to assignment in constructors. 
+===
+Difference between const char *myPointer and char *const myPointer
+c++,coding,oop
+What is the difference between const char *myPointer and char *const myPointer? 
+===
+yet another C++ question
+c++,coding,oop
+Suppose that objects A, B, and C are instances of class MyClass (MyClass A, B, C;). How should you design an assignment operator so that the "A=B=C;" statement would be allowed by a compiler but "(A=B)=C;" would not be allowed by a compiler? 
+===
+Is there any problem?
+c++,coding,oop
+Is there any problem with the following: char *a=NULL; char& p = *a;? 
+===
+Friendly question
+c++,coding,oop
+Class B is derived from class A. Function f is A\'s friend. Is f B\'s friend as well? 
+===
+auto_ptr
+c++,coding,oop
+What issue do auto_ptr objects address? 
+===
+Exceptions
+c++,coding,oop
+What happens when a function throws an exception that was not specified by an exception specification for this function? 
+===
+Code debugging
+c++,coding,oop
+Can you think of a situation where your program would crash without reaching the breakpoint which you set at the beginning of main()?
+===
+How do you link a C++ program to C functions?
+c++,coding,oop
+How do you link a C++ program to C functions? 
+===
+Scope resolution operator. 
+c++,coding,oop
+Explain the scope resolution operator. 
+===
+Differences between a C++ struct and C++ class?
+c++,coding,oop
+What are the differences between a C++ struct and C++ class? 
+What are the differences between a C struct and C++ class? 
+===
+Initialize an int
+c++,coding,oop
+How many ways are there to initialize an int with a constant? 
+===
+Default constructor
+c++,coding,oop
+What is a default constructor? 
+===
+Conversion constructor
+c++,coding,oop
+What is a conversion constructor? 
+===
+Difference between a copy constructor and an overloaded assignment operator
+c++,coding,oop
+What is the difference between a copy constructor and an overloaded assignment operator? 
+===
+Multiple inheritance
+c++,coding,oop
+When should you use multiple inheritance? 
+===
+Virtual destructor
+c++,coding,oop
+Explain the need for â€œVirtual Destructorâ€.
+===
+What is the difference between â€œoverloadingâ€ and â€œoverriddingâ€?
+c++,coding,oop
+What is the difference between â€œoverloadingâ€ and â€œoverriddingâ€?
+===
+Mutable
+c++,coding,oop
+What is a mutable member? 
+===
+RTTI
+c++,coding,oop
+Describe run-time type identification. 
+===
+namespace
+c++,coding,oop
+What problem does the namespace feature solve? 
+===
+stl iterators
+c++,coding,oop
+What is an iterator? What\'s the difference with random iterators? 
+===
+Drawing a circle
+coding,puzzle,math
+Write a routine to draw a circle given a center coordiante (x,y) and a radius (r) without making use of any floating point computations
+===
+Write a Binary Search program
+coding,c++
+Write a Binary Search program
+===
+What is a Semaphore?
+CS Fundamentals
+What is a Semaphore?
+===
+What is a Critical Section?
+CS Fundamentals
+What is a Critical Section?
+===
+What is a Mutex?
+CS Fundamentals
+What is a Mutex?
+===
+What are ACID properties?
+databases
+What are ACID properties?
+===
+variable storage
+coding,c++
+Where does global, static, local, register variables, free memory and C Program instructions get stored?
+===
+Storage allocation
+coding,c++
+Describe about storage allocation and scope of global, extern, static, local and register variables?
+===
+Processor, assembler, compiler, loader, linker
+CS Fundamentals,coding
+Explain briefly about, processor, assembler, compiler, loader, linker and the functions executed by them.
+===
+Lizard on the wall
+puzzle,math
+There is a lizard at one corner of a room of length l (say 5), breadth b(say 6) and height h(say 7), which wants to go to the diagonally opposite corner. What is the length of the shortest path and how do u find it?
+===
+x,y,z => !x, !y, !z 
+puzzle,algorithms,
+What you Have: You have unlimited supply of AND, OR gates. U have "TWO" NOT gates. 
+What you Have to DO: Convert 3 inputs x, y, z to 3 separate outputs !x, !y, !z
+===
+Palindrome within a string
+puzzle,coding
+Give an optimal algo for finding the longest palindrome within a string.
+===
+Pebbles
+puzzles,coding
+You are given an array ARR of size 2n + 1 (which are numbered from -n to 0 to
++n ). ARR[0] contains 2n + 1 pebbles. You need to distribute the pebbles
+throughout the array such that each element in the array contains exactly 1
+pebble. However, you have just one operation to move the pebbles - f(i).
+On applying this function on the \'i\' th postion [ where \'i\' ranges from -n to
+0 to +n ], one of the pebble moves from \'i\' to \'i-1\' and another pebble moves
+from \'i\' to \'i+1\'. Such an operation f(i) can be performed on position \'i\',
+if ARR[i] has atleast 2 pebbles in it. Write an optimal algo to solve this problem
+===
+Heap problem
+algorithms,coding
+Consider a binary heap containing n numbers (the root stores the greatest number). You are given a positive integer k < n and a number x . You have to determine whether the kth largest element of the heap is greater than x or not. Your algorithm must take O(k) time. You may use O(k) extra storage.
+
+Hint : I think you are trying to find the kth largest element in the heap in O(k) time in order to solve this problem. But actually, you need not find the kth largest element in the heap to solve this problem. You will be able to solve the problem if you are able to find whether the number of elements in the heap which are greater than x are more/less/equal to k . Now exploit the definition of the heap, to do this task in O(k) time. Note that you have extra O(k) storage space to use.
+===
+Binary search tree twist
+algorithms,coding
+You are given a special binary search tree where each node contains the
+number of nodes in its child-trees in addition to the key.
+
+Example.
+
+10,5
+/ \
+/ \
+5,3 15,0
+/ \
+/ \
+2,0 6,1
+\
+\
+7,0
+
+(a,b) => a is the key
+b is the number of nodes in the child trees.
+
+Now the problem is given any two values, give an algorithm with minimum time
+complexity, which gives the number of values in between the two given values
+in the sorted array.
+
+For example given 2 & 7, it should give 2 (since 5 & 6 are there in between
+2 & 7).
+===
+Describe the file system layout in the UNIX OS.
+system,CS Fundamentals
+Describe the file system layout in the UNIX OS. Describe boot block, super block, inodes and data layout.
+===
+How can you achieve Multiple Inheritance in Java?
+java,coding
+How can you achieve Multiple Inheritance in Java?
+===
+What is the difference between an Applet and an Application?
+java,coding
+What is the difference between an Applet and an Application?
+===
+Java synchronize
+java,coding
+What does the keyword "synchronize" mean in java. When do you use it? What are the disadvantages of synchronization?
+===
+Java "final" keyword
+java,coding
+What does the "final" keyword mean in front of a variable? A method? A class?
+===
+Are java constructors inherited ?
+java,coding
+Are java constructors inherited ? if not, why not?
+===
+What happens when you click on link in browser?
+internet,CS Fundamentals
+Describe the process that happens when you click a link in your web browser to fetch another web page.
+===
+What is HTTP? How does it work (in basic terms)?
+internet,CS Fundamentals
+What is HTTP? How does it work (in basic terms)?
+===
+xxxx
+CGI
+internet,CS Fundamentals
+What is a CGI program? How does one get invoked?
+===
+Difference between GET and POST methods
+internet,CS Fundamentals
+What is the difference between GET and POST methods of submitting form data?
+What are the limitations of either?
+===
+What is "URL Encoding"?
+internet,CS Fundamentals
+What is "URL Encoding"?
+===
+What is an HTML "entity"?
+internet,CS Fundamentals
+What is an HTML "entity"?
+===
+Proxy server
+internet,CS Fundamentals
+What is a "proxy server"? How does it work?
+===
+Redirects
+internet,CS Fundamentals
+How can you do a "redirect" to another page?
+===
+Cookies
+internet,CS Fundamentals
+What is a "cookie"? How do they work? What are the different types of Cookies? How are cookies passed in the HTTP protocol?
+===
+XML
+internet,CS Fundamentals,xml
+What is XML and what is it good for?
+===
+XML DTD
+internet,CS Fundamentals,xml
+How does an XML DTD work, and what are some of its limitations?
+===
+TCP & UDP
+internet,CS Fundamentals,networking
+What is TCP? UDP? How do they differ?
+===
+What is a bridge? A router? A gateway?
+internet,CS Fundamentals,networking
+What is a bridge? A router? A gateway?
+===
+Ethernet
+internet,CS Fundamentals,networking
+How does Ethernet work? How big is an Ethernet address?
+===
+Session variables
+internet,CS Fundamentals
+What are session variables?
+===
+OSI seven-layer model
+internet,CS Fundamentals,networking
+Walk me through the OSI seven-layer model, then explain at what layer a switch,router and hub all operates.
+===
+DNS
+internet,CS Fundamentals,networking
+Describe how DNS works. Describe the difference between a resolver and an authoritative master server.
+===
+PING
+internet,CS Fundamentals,networking
+Explain how ping works.
+===
+TCP/IP
+internet,CS Fundamentals,networking
+Describe TCP/IP and it\'s components. What is ARP/RARP? What does a TCP/IP packet looks like?
+===
+How to find if machine is running webserver?
+internet,CS Fundamentals,networking
+You have two machines. One you are told has a webserver running on it, the other hasn\'t got a web browser of any kind. Using the machine without the browser, how can you tell that the webserver is running on the other machine?
+===
+What are various problems unique to distributed databases?
+databases
+What are various problems unique to distributed databases?
+===
+What are the tradeoffs with having indexes in databases?
+databases
+What are the tradeoffs with having indexes in databases??
+===
+What is a "transaction"? Why are they necessary?
+databases
+What is a "transaction"? Why are they necessary?
+===
+Normalization
+databases
+What is "normalization"? "Denormalization"? Why do you sometimes want to denormalize?
+===
+What is a "primary key"?
+databases
+What is a "primary key"?
+===
+Why can a "group by" or "order by" clause be expensive to process?
+databases
+Why can a "group by" or "order by" clause be expensive to process?
+===
+What does the following C statement do?
+c++
+while(*c++ = *d++); assuming c and d are pointers to characters.
+===
+URL history
+internet,algorithms
+Given a history of URLs, how would you determine if a particular URL had been seen before?
+===
+Cars On the Road
+probability
+if the probability of observing a car in 20 minutes on a highway is 609/625, what is the probability of observing a car in 5 minutes (assuming constant default probability)?
+===
+Wanna Play?
+puzzle,probability
+I offer to play a card game with you using a normal deck of 52 cards.  the rules of the game are that we will turn over two cards at a time.  if the cards are both black, they go into my pile.  if they are both red, they go into your pile.  if there is one red and one black, they go into the discard pile. we repeat the two card flipping until we\'ve gone through all 52 cards.  whoever has more cards in their pile at the end wins.  i win if there is a tie.  if you win, i pay you a dollar.  how much would you pay to play this game?
+===
+One In, One Out
+puzzle
+You have an empty room, and a group of people waiting outside the room. At each step, you may either get one person into the room, or get one out. Can you make subsequent steps, so that every possible combination of people is achieved exactly once?
+===
+Combinations of n brackets
+algorithms,coding
+Develop an algorithm to find out all valid combinations of n brackets. Like for n =3 possible combinations can be ((())) or ()()() or (()()) and so on.
+===
+Does path exist?
+puzzle,coding,algorithms
+You are given a MxN integer array Arr[M][N] with a few non zero cells among them.  Cells Arr[0][0] and Arr[M-1][N-1] are both non zero.  How do you find whether there exists a path from Arr[0][0] to Arr[M-1][N-1] such that all cells in it have non zero elements.
+
+Note that a cell can have at max 8 neighbors, and you can only jump from a cell to one of its neighbors.
+===
+Blocks
+system,algorithms
+Lets say you have a disk of size N with N blocks. Every block stores part of a file. Every file starts from a single block. The block size is not enough to store a file. Every block has a used/unused bit and a pointer to the next block in the disk which will store the next part of the file and so on. A block which stores the end of a file points to null. Also a block whose unused bit is 0 doesnt point to anything and is not pointed to by any block. Now u have an index of files with filename as index and the value as the first block in which the file starts.Lets says u somehow lose these indices and values. How will you find an efficient algorithm to recreate this index structure with values. You can use any filenames while creating the indices. (While solving one shld think of cases where the file starts at block 4 which points to 1 then to 2 and ends at 3) 
+===
+Virtual memory management
+system
+Assume that you are working on a small device which has a CPU with no MMU (Memory Management Unit) and a limited amount of memory (1M). We want to be able to run apps on the device that may need more than 1M throughout their execution, although they never need more than 1M at any particular instant. We are in control of the operating system running on the device as well as all tools, compilers, linkers, etc. Discuss ideas on implementing a virtual memory management system on the machine.
+===
+SAX and DOM
+internet
+What is the difference between SAX and DOM?  Which API provides a faster implementation?
+===
+REST
+internet
+What is REST (Representational State Transfer)? What are the fundamental principles?
+-Is RPC an example of REST?
+-Can someone use the principles of REST over SOAP?
+===
+Basketball game
+probability,puzzle
+You have a basket ball hoop and someone says that you can play 1 of 2 games. You get $1000 and one shot to get the hoop. Or, you get three shots and you have to make 2 of 3 shots. Which one do you choose? If p is the probability of making a particular shot, what value of p makes you switch games? 
+===
+Binary problem
+coding,bit manipulation
+I want to see if all the ones in a number appear on the right side of the number and all zeros appear on the left, how can I do this most efficiently? (i.e. 00000111 is true but 100010 is false)
+===
+Sparse arrays
+arrays,coding
+Design a data structure for storing sparse arrays. Implement multiplications of such arrays.
+===
+Traverse the leaf nodes of a binary tree.
+algorithms,coding
+Traverse the leaf nodes of a binary tree. 
+===
+Sorting an array of zeros and ones
+algorithms,coding
+How would you sort an array that consists of only zeros and ones in only one pass?
+===
+Add numbers in base n
+bit manipulation,coding
+Give an approach/code to add numbers in base n.
+===
+What is wrong with the code ?
+c++
+class Base {
+public:
+       Base(int numElements) {
+               m_baseArray = new int[numElements];
+       }
+       ~Base { //non-virtual
+               delete [] m_baseArray;
+       }
+private:
+       int* m_baseArray;
+}
+class Derived : public Base {
+public:
+       Derived(int numElements) : Base(numElements) {
+               m_derivedArray = new int[numElements];
+       }
+       ~Derived() {
+               delete[] m_derivedArray;
+      }
+private:
+       int* m_derivedArray;
+}
+int main(int argc, char** argv) {
+       Base* base = new Derived(3);
+       delete base;
+       return 0;
+}
+
+What is wrong with the code ? 
+===
+New game
+puzzles,math
+There is a new game in which 3 person play each other and only one wins. If 81 person participated in the tournament give a quick reply that how many matches will be played to decide the winner
+===
+Money problem
+puzzle,algorithms
+You have b boxes and n dollars. If I want any amount of money from 0 to n dollars, you must be able to hand me 0 to b boxes so that I get exactly what I request.â€ The two questions were â€œWhat are the restrictions on b and n, and how is money distributed among the boxes?
+===
+What is the sum of the numbers from 1 to 1000?
+puzzle,math
+What is the sum of the numbers from 1 to 1000?
+===
+Russian roulette
+puzzle,probability
+Lets play a game of Russian roulette. You are tied to a chair and can,t get up.Here is the gun , six chambers all empty. Now I put two bullets in the gun and I put these bullets in the adjecent chambers. I close the barrel and spin it. I put the gun to your head and pull the trigger. Clik and the slot was empty. Now before we start the interview I want to pull the trigger one more time , which one do you prefer , that I spon the barrel first or that I just pull the trigger ?
+===
+Write an algorithm for Soduku puzzle
+coding,puzzle,algorithms
+Write an algorithm for Soduku puzzle
+===
+XML DTD
+xml
+How does an XML DTD work, and what are some of its limitations?
+===
+Difference between Data Ware Housing and Data Mining?
+databases,CS Fundamentals
+What is the difference between Data Ware Housing and Data Mining?
+===
+Differences between semaphore, critical section & mutex
+CS Fundamentals
+What are the main differences between semaphore, critical section & mutex?
+===
+What is Marshalling?
+CS Fundamentals
+What is Marshalling?
+===
+MySQL architecture
+databases
+Explain MySQL architecture
+===
+MySQL locks
+databases
+Explain MySQL locks
+===
+Multi-version concurrency control in MySQL
+databases
+Explain multi-version concurrency control in MySQL
+===
+Intersection node of 2 linked lists
+linkedlist
+You are given two singly linked lists, such that they start from two different nodes (head) and then, a few nodes down the list, they meet at a common node and then share all the nodes henceforth until the tail. The task is to find the first common node.
+===
+C++ constructors
+c++,coding
+Constructors do not have return type and so they cannot return error codes. How are errors or exceptions handled in constructors? What if the calls that you make in the constructor can actually throw exceptions? How do you let the caller know something bad happened in a constructor?
+===
+design patterns
+c++,coding,design patterns
+Explain the singleton, visitor, facade, or handle class design pattern. Code is possible.
+===
+Memset
+c++
+Assume you have a class with 100 integer members. Would it be safe to do a memset() on the object in order to quickly zero out the memory? 
+===
+Why is the parameter to a copy constructor passed by reference? 
+c++
+Why is the parameter to a copy constructor passed by reference? 
+===
+What is virtual inheritance? 
+c++,coding,oop
+What is virtual inheritance? 
+===
+Why shouldn\'t you throw an exception inside a destructor? 
+c++,coding,oop
+Why shouldn\'t you throw an exception inside a destructor? 
+===
+Why would you use the volatile qualifier? 
+c++,coding,oop
+Why would you use the volatile qualifier? 
+===
+Why would you use the explicit qualifier? 
+c++,coding,oop
+Why would you use the explicit qualifier? 
+===
+What is placement new?
+c++,coding,oop
+What is placement new?
+===
+Pointers & references
+c++,coding,oop
+What is the difference between a pointer and a reference? When would you use a pointer? A reference? 
+===
+What is the difference between new/delete and malloc/free?
+c++,coding,oop
+What is the difference between new/delete and malloc/free?
+===
+Difference between operator new and the new operator
+c++,coding,oop
+What is the difference between operator new and the new operator?
+===
+#define
+c++,coding,oop
+What are the advantages/disadvantages of using #define?
+===
+Difference between declaring & defining a variable
+c++,coding,oop
+What is the difference between declaring a variable and defining a variable?
+===
+What is page thrashing?
+CS Fundamentals
+What is page thrashing?
+===
+How reliable are floating-point comparisons?
+CS Fundamentals
+How reliable are floating-point comparisons?
+===
+Maximum value that a numeric variable can hold
+c++,coding
+How can you determine the maximum value that a numeric variable can hold?
+===
+++ operator
+c++
+Why preincrement operator is faster than postincrement?
+===
+Which is better?
+c++,coding
+Is it better to use a pointer to navigate an array of values,or is it better to use a subscripted array name?
+===
+sizeof operator to tell the size of an array passed to a function
+c++,coding
+Can the sizeof operator be used to tell the size of an array passed to a function? 
+===
+What is the heap? 
+c++,coding,CS Fundamentals
+What is the heap? 
+===
+What is storage class and what are storage variable ? 
+c++,coding
+What is storage class and what are storage variable ? 
+===
+What are advantages and disadvantages of external storage class?
+c++,coding
+What are advantages and disadvantages of external storage class?
+===
+Diffenentiate between an internal static and external static variable?
+c++,coding
+Diffenentiate between an internal static and external static variable?
+===
+What is the stack?
+c++,coding,CS Fundamentals,stack
+What is the stack?
+===
+What is Preprocessor?
+c++,coding,CS Fundamentals
+What is Preprocessor?
+===
+How can you avoid including a header more than once? 
+c++,coding
+How can you avoid including a header more than once? 
+===
+Can you add pointers together? Why would you?
+c++,coding
+Can you add pointers together? Why would you?
+===
+What is indirection?
+c++,coding
+What is indirection?
+===
+What is the scope of a static function in C ?
+c,c++,coding
+What is the scope of a static function in C ?
+===
+Function problem
+puzzles,math
+Let f(k) = y where k is the y-th number in the increasing sequence of non-negative integers with the same number of ones in its binary representation as y, e.g. f(0) = 1, f(1) = 1, f(2) = 2, f(3) = 1, f(4) = 3, f(5) = 2, f(6) = 3 and so on. Given k >= 0, compute f(k).
+===
+Links vs copying a file
+unix,CS Fundamentals,system
+What is the main advantage of creating links to a file instead of copies of the file? 
+===
+Why are page sizes always powers of 2? 
+CS Fundamentals
+Why are page sizes always powers of 2? 
+===
+Differences between C++ and Java
+c++,java
+Name some major differences between C++ and Java.
+===
+What is the problem with this macro?
+c++,c,coding
+What problems might the following macro bring to the application?
+#define sq(x) x*x
+===
+delete this
+c++,coding
+What will happen if I say delete this
+===
+What are the different types of Storage classes?
+c++
+What are the different types of Storage classes?
+===
+What are the types of STL containers?
+c++
+What are the types of STL containers?
+===
+Difference between "vector" and "array"?
+c++
+What are the difference between "vector" and "array"?
+===
+What are inline functions?
+c++
+What are inline functions? 
+Why should I use inline functions instead of plain old #define macros?
+How can inline functions help with the tradeoff of safety vs. speed?
+===
+Explain "passing by value", "passing by pointer" and "passing by reference"
+c++
+Explain "passing by value", "passing by pointer" and "passing by reference". When will you use one over the other?
+===
+How can I return multiple values from a function?
+c++,coding
+How can I return multiple values from a function?
+===
+What\'s the difference between struct x1 { ... }; and typedef struct { ... } x2; ?
+c++,c,coding
+What\'s the difference between struct x1 { ... }; and typedef struct { ... } x2; ?
+===
+How can I read/write structures from/to data files?
+c++,c,coding
+How can I read/write structures from/to data files?
+===
+Can I initialize unions?
+c++,coding
+Can I initialize unions?
+===
+What is DDL, DML and DCL?
+databases
+What is DDL, DML and DCL?
+===
+Describe the differences between XML and HTML.
+xml
+Describe the differences between XML and HTML.
+===
+What is XSL?
+xml
+What is XSL?
+===
+What is DOM and how does it relate to XML?
+xml
+What is DOM and how does it relate to XML?
+===
+What is SOAP and how does it relate to XML?
+xml
+What is SOAP and how does it relate to XML?
+===
+What\'s a Document Type Definition (DTD)?
+xml
+What\'s a Document Type Definition (DTD)?
+===
+What is the difference between a NULL pointer and a void pointer? 
+c,c++,coding
+What is the difference between a NULL pointer and a void pointer? 
+===
+Layers in TCP/IP
+networking
+What are the layers in TCP/IP
+===
+Advantages of InnoDB over MyISAM?
+databases,mysql
+Explain advantages of InnoDB over MyISAM?
+===
+How do you handle failure in a constructor?
+c++
+How do you handle failure in a constructor?
+===
+What is the difference between a shallow copy and a deep copy?
+c++
+What is the difference between a shallow copy and a deep copy?
+===
+Whats the difference?
+c++
+What is the difference between static_cast<RWTime>(*this) += 5;  and static_cast<RWTime&>(*this) += 5;?
+===
+What is a spinlock? How is it implemented??
+c++,threading
+What is a spinlock? How is it implemented??
+===
+What is network-byte order?
+networking,system
+What is network-byte order?
+===
+How can you force instantiation of a template?
+c++
+How can you force instantiation of a template?
+===
+How many parameters can be passed to a function in c++ ? 
+c++
+How many parameters can be passed to a function in c++ ? 
+===
+What are the types of STL containers?
+c++
+What are the types of STL containers?
+===
+What is friend function?
+c++
+What is friend function? 
+What are some advantages/disadvantages of using friend functions?
+What does it mean that "friendship isn\'t inherited, transitive, or reciprocal"?
+===
+What is structure padding.Describe briefly?
+c++
+What is structure padding.Describe briefly?
+===
+Is there any way to write a class such that no class can be inherited from it. Please include code 
+c++
+Is there any way to write a class such that no class can be inherited from it. Please include code 
+===
+Sorting algorithms
+algorithms
+Discuss the characteristics of different sort algorithms such as bubble sort, heap sort, merge sort, quick sort, hash sort? When would you prefer one of them over the other?
+===
+Multi-threading
+CS Fundamentals
+How is multi-threading beneficial? What do we gain out of it? What are the pitfalls and dangers we are faced with when we build multi-threaded systems?
+===
+What is a Unique Key?
+databases
+What is a Unique Key?
+===
+What is a Unique Key?
+databases
+What is a Unique Key?
+===
+What is a Unique Index?
+databases
+What is a Unique Index?
+===
+Write SQL
+sql,databases
+There is an EMPLOYEES(ID, NAME, MANAGER_ID) table. MANAGER_ID points to the ID column of the same table. Given a manager name (assuming ID is unique and NAME is unique), what kind of SQL query would you write to retrieve all employees directly managed by this manager? What is the query to get employees 2 levels down? Is there a way to write a query to get employees N levels down? Is there another way of organising this table (different columns?) to hold these kinds of tree structures?
+===
+What is a View? How is a View useful?
+sql,databases
+What is a View? How is a View useful?
+===
+What is a Trigger? How is a Trigger useful?
+sql,databases
+What is a Trigger? How is a Trigger useful?
+===
+What is a Stored Procedure? How is a Stored Procedure useful?
+sql,databases
+What is a Stored Procedure? How is a Stored Procedure useful?
+===
+What is a sub select query?
+sql,databases
+What is a sub select query?
+===
+Write the output of the following program
+c++,c
+Write the output of the following program
+#include 
+
+#define  ABC   20
+#define XYZ 10
+#define XXX ABC - XYZ
+
+void main()
+{
+   int   a;
+
+   a = XXX * 10;
+
+   printf("%d\n", a);
+}
+===
+Write the output of this program
+c,c++
+Write the output of this program
+
+#include 
+
+#define calc(a, b)   (a * b) / (a - b)
+
+void main()
+{
+   int a = 20, b = 10;
+
+   printf("%d\n", calc(a + 4, b -2));
+}
+===
+What will be output of the following program ?
+c,c++
+What will be output of the following program ?
+#include 
+
+void main()
+{
+   int cnt = 5, a;
+
+   do {
+      a /= cnt;
+   } while (cnt --);
+
+   printf ("%d\n", a);
+}
+===
+Smart pointers
+c++
+what is a smart pointer? 
+why should you use them? 
+Explain Storage issues of Smart Pointers?
+Explain whether Member Functions should be used in Smart Pointer class?
+===
+what is the size of class which has int, double, and char?
+c++
+what is the size of class which has int, double, and char?
+===
+What is faster ++i or i++, where i is an interger variable?
+c++
+What is faster ++i or i++, where i is an interger variable?
+===
+Implementation of string length using pointer hopping
+c,c++
+Implementation of string length using pointer hopping
+===
+Why is the size of an empty class not zero?
+c++
+Why is the size of an empty class not zero?
+===
+Why doesn\'t overloading work for derived classes?
+c++
+Why doesn\'t overloading work for derived classes?
+===
+Can I call a virtual function from a constructor?
+c++
+Can I call a virtual function from a constructor?
+===
+Why doesn\'t C++ provide heterogenous containers?
+c++
+Why doesn\'t C++ provide heterogenous containers?
+===
+What is a function object?
+c++
+What is a function object?
+===
+Whats correct?
+c,c++
+What is correct
+
+int* p;
+  or
+int *p;
+
+??
+===
+What is the use of \'using\' declaration?
+c++
+What is the use of \'using\' declaration?
+===
+Why should I use <iostream> instead of the traditional <cstdio>?
+c++
+Why should I use <iostream> instead of the traditional <cstdio>?
+===
+How do I allocate multidimensional arrays using new?
+c++
+How do I allocate multidimensional arrays using new?
+===
+Reference counting
+c++
+How do I do simple reference counting?
+How do I provide reference counting with copy-on-write semantics?
+===
+Differentiate between final finally and finalize 
+java
+Differentiate between final, finally and finalize 
+===
+How does the synchronized keyword work?
+java
+How does the synchronized keyword work? What happens when you use it on a static method? 
+===
+What is garbage collection?
+CS Fundamentals
+What is garbage collection?
+===
+Synchronization & Asynchronization
+CS Fundamentals
+What is Synchronization and its benefit?
+What is Asynchronization and its benefit?
+===
+How do static variables differ in C and C++? 
+c,c++
+How do static variables differ in C and C++? 
+===
+Quarter puzzle
+puzzle
+You play this game with one other player: Starting with an ampty rectangular table like this one, and an unlimited supply of quarters, each person takes a turn by putting a quarter anywhere in the table. The rules say only that you must place your quarter so that it doesn\'t touch any quarter already on the table. You and your opponent take turns placing quarters in succession, until the table is nearly full of quarters. The first player who is unable to add a quarter without touching a quarter already placed loses.
+You move first. What strategy will you use to play this game?
+===
+Goblin puzzle
+puzzle
+You are in a boat in the exact center of a perfectly circular lake. There is a goblin on the shore of the lake. The goblin wants to kill you. The goblin can\'t swim and doesn\'t have a boat. Provided that you can make it to shore and the goblin isn\'t there to grab you, you can always outrun him on land and get away. The problem is this: The goblin can run four times as fast as the maximum speed of your boat. He has perfect eyesight and is completely logical. he will do anything in his power to catch you. How can you make it to land and escape the goblin?
+===
+Jelly beans problem
+puzzle,probability
+You have a bucket of jelly beans in three colors – red, green and blue. With your eyes closed, reach in the bucket and take out two jelly beans of the same color. How many jelly beans do you have to take to be certain of getting two of the same color?
+===
+Demons and Dwarfs
+puzzle
+An evil demon captures a large, unspecified number of dwarfs. At each dwarf’s entry interview, the demon plants a red or green gem in the dwarf’s forehead. The demon informs the new recruit:
+
+    * that he, the dwarf, has an unremovable red or green jewel in his forehead
+
+    * that he, the demon, is not going to tell him which color, nor will anyone else (the dwarfs are strictly forbidden to communicate)
+
+    * that one of the colors denotes sniveling company spies and the other color denotes those particularly lucklyess captives who are not even snivelying company spies
+
+    * that the demon does not choose to tell him which color denotes which, nor will he tell him ever.
+
+End of entry interview.
+
+Every day the dwarfs line up in formation so that the demon can count them, just to make sure no one has escaped.
+
+One day the demon gets tired of the dwarfs and decides to get rid of them. He announces that he will set the dwarfs free, provided they all deduce the color of their gems. As a hint, he tells them that there is at least one dwarf with a red gem, and at least one with a green gem. To earn their collective freedom, the dwarfs must signal wordlessly at the daily lineup. All the dwarfs with red gems are to step one pace forward, while the dwarfs with green gems remain behind. If they are correct, then all the dwarfs are free to go back to their homes in the coal mines. If they are not correct, all the dwarfs will be slaughtered on the spot.
+
+The dwarfs are free to take as long as they want to determine the colors of their gems. They are all perfectly logical, and are all dying to get back to their homes. What should they do?
+===
+Weighing jet plane
+puzzle
+How would you weigh a jet plane without using scales?
+===
+Weighing ice
+puzzle
+How do you find the weight of all the ice in a hockey rink?
+===
+Fruit problem
+puzzle
+You have three picnic baskets filled with fruit. One has apples, one has oranges, and the third has a mixture of apples and oranges. You cannot see the fruit inside the baskets. Each basket is clearly labeled. Each label is wrong. You are permitted to close your eyes and pick one fruit from one basket, then examine it. How can you determine what is in each basket?
+===
+Given a binary search tree and a keyvalue, return the node that has value closest to the key.
+tree
+Given a binary search tree and a keyvalue, return the node that has value closest to the key. 
+===
+Allocating variables on the stack, heap
+c++
+How to allocate a variable on the stack? On the heap? Array on the heap? What is the difference?
+===
+Game of master mind: 
+coding,puzzle
+you have four balls, and four different colors, as a solution. The user tries to guess the solution. If they guess the right color for the right spot, it counts as a \'hit\'. If it\'s the right color, but the wrong spot, it counts as a psuedo-hit. For example: if the solution is \'RGGB\' and the user guesses \'YRGB\' they have 2 hits and one pseudo hit. Write a program to, given a solution and a guess, calculate the number of hits and pseudo hits.
+===
+Linked list problem
+linkedlist,coding
+You have a linked list
+struct node
+{
+int selected;
+struct node *next;
+struct node *child;
+}
+intitially all childs are null and it is just a linked list
+given a list with some marked and some not, make a linked list such that:
+there is a linked list of just the not_selected, then the last element in that list is an element without any data but its child is pointing to a linked list that has all the selected nodes (the last element of which points back to the one with the child node)
+- how would you traverse this new structure (even if there was a child that had other childs
+- what if that circular connection was cut, then how would you traverse it?
+- what if you can add a boolean value to the structure (that you can only set as you traverse). then how would you do it 1
+===
+Difference between POD array, vector, list (time, space, expansion tradeoffs)
+c++
+What is the difference between POD array, vector, list (time, space, expansion tradeoffs)
+===
+Difference between hash_map and map
+c++
+What is the difference between hash_map and map
+===
+What does intrusive and non-intrusive smart pointers mean?
+c++
+What does intrusive and non-intrusive smart pointers mean?
+===
+TCP Handshake
+internet,CS Fundamentals,networking
+How does a TCP handshake work? Why would a 2-way handshake not be enough?
+===
+What is a socket?
+internet,CS Fundamentals,networking
+What is a socket?
+===
+What does a bind() system call achieve? How would you use it on a multihomed host?
+internet,CS Fundamentals,networking
+What does a bind() system call achieve? How would you use it on a multihomed host?
+===
+What is source routing?
+internet,CS Fundamentals,networking
+What is source routing?
+===
+How does the sliding window implementation work in TCP?
+internet,CS Fundamentals,networking
+How does the sliding window implementation work in TCP?
+===
+Fragmentation and reassembly
+internet,CS Fundamentals,networking
+Explain TCP Fragmentation and reassembly
+===
+TCPIP: How is the largest packet size determined for a given route?
+internet,CS Fundamentals,networking
+TCPIP: How is the largest packet size determined for a given route?
+===
+TCPIP: What are reserved ports? What identifies an end point in TCP/IP.
+internet,CS Fundamentals,networking
+TCPIP: What are reserved ports? What identifies an end point in TCP/IP.
+===
+How does TCP do flow control?
+internet,CS Fundamentals,networking
+How does TCP do flow control?
+===
+Explain a startegies for determining the health of TCP connection ( Keep-alive mechanism ).
+internet,CS Fundamentals,networking
+Explain a startegies for determining the health of TCP connection ( Keep-alive mechanism ).
+===
+What does live-lock mean? And how does TCP avoid it?
+internet,CS Fundamentals,networking
+What does live-lock mean? And how does TCP avoid it?
+===
+Does sending data using HTTP POST method provide you any security?
+internet,CS Fundamentals,networking
+Does sending data using HTTP POST method provide you any security?
+===
+What is firewall? at what level/layer of network communciation it works?
+internet,CS Fundamentals,networking
+What is firewall? at what level/layer of network communciation it works?
+===
+What is the difference between Data Privacy and Data Integrity?
+internet,CS Fundamentals,networking
+What is the difference between Data Privacy and Data Integrity?
+===
+What does phishing mean?
+internet,CS Fundamentals,networking
+What does phishing mean?
+===
+RSA
+CS Fundamentals
+How does RSA work? On what basis are public and private keys generated and why is it to difficult to break them?
+===
+How does the HTTPS authentication happen?
+CS Fundamentals,internet
+How does the HTTPS authentication happen?
+===
+How do you ensure that your web application does not have any security threat?
+internet
+How do you ensure that your web application does not have any security threat?
+===
+How does man-in-middle attack happen?
+CS Fundamentals,internet
+How does man-in-middle attack happen?
+===
+What is DoS attack, how to prevent it?
+CS Fundamentals,internet
+What is DoS attack, how to prevent it?
+===
+What are the various steps that a typical OS would do during context switching.
+CS Fundamentals,system
+What are the various steps that a typical OS would do during context switching.
+===
+Explain the different stages in compilation/build procedures
+CS Fundamentals,system
+Explain the different stages in compilation/build procedures
+===
+SQL question
+databases,CS Fundamentals
+1. Given a table having three columns student-name, subject & marks. Write a sql to provide total marks for each student.
+
+2. provide list of students having total > 400 marks.
+===
+Pros & cons of index.
+databases,CS Fundamentals
+What are the pros & cons of having an index.
+===
+What is clustred Index? What is secondary index?
+databases,CS Fundamentals
+What is clustred Index? What is secondary index?
+===
+pros & cons of stored procedure
+databases,CS Fundamentals
+What are the pros & cons of stored procedures?
+===
+SQL question
+databases,CS Fundamentals
+1. Given two tables employee (employee id, name, department ID) & department (dept id, name), provide list of department in which there is no emplyee. Can you avoid sub-select?
+
+2. Given that employee has 20 rows and department has 10 rows, how many rows will "Select * from department, employee" return? What kind of JOIN is this?
+===
+SQL question
+databases,CS Fundamentals
+Select * from email_table where email_address like \'%@yahoo.com\'; Suggest a way to improve this query. Is it possible to use some index in this query? workarounds?
+===
+SQL question
+databases,CS Fundamentals
+What do you understand by cost based optimization & rule based optimization, which is better for what scenario.
+===
+What are the main structural elements of XML? How are they related?
+xml
+What are the main structural elements of XML? How are they related?
+Discuss about 
+1. XML grammar
+2. precise meanings of "Element", "Attribute", "CDATA", "Processing Instruction", "Entity Reference" and "Character Reference"
+===
+Convert Binary Tree to Linked list
+binarytrees,linkedlist,algorithms
+Imagine you have an unbalanced binary search tree. Now make a linked list of all the nodes at every depth(level) of the tree. Assume every node along with a left and a right pointer also has a next pointer. To make the linked list inside the binary tree for every level, the next pointer of the first node at every depth should point to the next node at the same depth in the tree and so on for the other nodes. What is the complexity of your algorithm. Improve the efficiency.Code the algorithm and then thoroughly test it?
+===
+Find start of circular linked list
+linkedlist,algorithms
+There is a linked list. The last node could point back to any node in the list (including the head). Find the node in the list to which the last node points. Or in other words at which node does the circular linked list start.
+===
+There are two sentences. Find the common words in the two sentences. 
+string,algorithms
+There are two sentences. Find the common words in the two sentences. 
+===
+Find second maximum number in array
+arrays,algorithms,coding
+There is an array of ‘n’ integers. Write a function to find the largest number? Do it in one iteration? Now in the same pass also find the 2nd largest number. 
+===
+Matrix problem
+algorithms,coding
+Suppose you have a M-by-N matrix (i.e. M rows and N columns), whose entries are all integers.  We want to set all the elements on the i-th row and j-th column to 0 if matrix entry (i, j) is 0.
+
+For instance, if the matrix is:
+
+1   0   2
+3   1   1
+
+then, the result should be:
+
+0   0   0
+3   0   1
+
+(since the (1, 2) entry is 0, we set all elements on the 1st row and 2nd column to 0). Code it.
+===
+binary tree color clumps
+binarytrees,algorithms
+Given a binary tree where each node\'s value is a COLOR. A clump is formed when more than 3 COLORS are adjacent to each other. Return the total number of clumps in a binary tree. 
+===
+ideal data structure for depth-first spanning
+tree,algorithms,coding
+What is an ideal data structure to traverse through in order to create a depth-first spanning forest? code it.
+===
+Determine is a graph is circular.
+graph,algorithms
+How would you determine is a graph is circular.
+===
+Coding problem
+coding
+Write a small program that takes two strings as input and prints two
+numbers (n1 and n2) as output, where:
+
+n1 is the number of letters in the first string that each has a match in
+the second string in the same position in the string.
+n2 is the number of letters in the first string that each has a match in
+the second string but does not have a match in the same position.
+
+Note that each match is unique.  That is, no letter in either string can
+participate in more than one match.
+I.e., each letter instance can contribute at most once to n1+n2.
+
+Some examples:
+abc abcd -> 3 0
+aab aacd -> 2 0
+aba aab -> 1 2
+aba bab -> 0 2 
+===
+Subset products
+algorithms,coding
+There are a set of \'n\' integers. Describe an algorithm to find for each of all its subsets of n-1 integers the product of its integers. 
+
+For example, let consider (6, 3, 1, 2). We need to find these products :
+
+    *
+          o 6 * 3 * 1 = 18
+          o 6 * 3 * 2 = 36
+          o 3 * 1 * 2 = 6
+          o 6 * 1 * 2 = 12 
+===
+Ugly numbers
+prime,coding
+Ugly numbers are numbers whose only prime factors are 2, 3 or 5. The sequence 
+1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, ... 
+shows the first 11 ugly numbers. 
+By convention, 1 is included. 
+
+Write a program to find and print the 1500\'th ugly number.
+===
+coding,next in series
+There is a series of numbers in ascending order. All these numbers
+have the same number of binary 1s in them. Given the number of 1 bits set in
+the numbers, write an algorithm/C program to find the nth number in
+the series.
+===
+Linked list addition
+coding,linkedlist,algorithms
+The numbers are represented in linked-list with each node representing a
+digit of the number as follows:
+123  == 1 2 3 NULL
+999  == 9 9 9 NULL
+
+Write a C program to add two numbers.
+
+I/P : 9 9 9 NULL
+      1 NULL
+
+O/P : 1 0 0 0 NULL
+
+You can assume that the number of elements in the linked-list is available
+to you.
+struct List
+{
+ Node* head;
+ int noe; /* number of elements */
+};
+===
+Linked list flattening
+linkedlist,algorithms,coding
+You are given a singly link-list such that each node of this list is also a
+head of another link list of the same type. So, how does one flatten the 
+linked-list
+
+struct node {
+   void *data; /* could be anything */
+   struct node *next;
+   struct node *down;
+};
+===
+Number puzzle
+coding,c,c++
+Given a numbers x and n, where n is a power of 2, write C code, which
+gives the multiple of n which is greater than or equal to x.
+ex :
+I/P: 13 8
+O/P: 16
+
+I/P: 17 16
+O/P: 32
+
+The challenge: Do not use division or modulo operator.
+===
+C hack
+c
+In C, copying of array as follows is not possible:
+
+int a[10],b[10];
+a = b;
+a = GetAnArrayOfTenElements();
+
+Can you think of a simple hack, which would enable us to get this effect?
+===
+Array problem
+arrays,algorithms,coding
+Given an array of 2n elements of which n elements are same and the
+remaining n elements are all different. Write a C program to find out the
+value which is present n times in the array.
+
+There is no restriction on the elements in the array. They are random
+(In particular they not sequential.)
+===
+Elephant and bananas problem
+puzzle
+There are 2 cities A and B, dist. between them is 1000 Km
+we have 3000 bananas in city A and a elephant can carry max 1000 bananas at
+any given time and it needs to eat a banana every 1 Km.
+
+How Many Max. No. of bananas one can transfer to city B?
+
+Note : the elephant cannot go without bananas to eat.
+===
+Memory problem
+system,coding
+Assume memory is divided into blocks that are a power of 2 in size,
+starting at address 0. The blocks may be words, doublewords, pages, and so
+on.
+
+Then, given a starting address "A" and a length "L", we wish to  determine
+whether or not the address range from "A" to "A+L-1" crosses a  block
+boundary.
+
+The quantities "A" and "L" are unsigned and any values that fit
+in a register are possible.
+
+Pictorially,
+
+|---N------|----N-----|----N------|
++----------+----------+---- ... ---+----------+
+|          |          |            |          |
++----------+----------+---- ... ---+----------+
+  ^ |----L---|
+  |
+  |
+  A
+
+Write small piece of C code, to know if A+L crosses a boundary.
+
+Challenge is not to use division or modulo operator :-)
+===
+Multiple of 3
+bit manipulation,coding
+Write an algorithm to check whether a given unsigned number is a multiple of 3, without using division and modulo operators.
+===
+Prove that n*(n+1)*(2*n+1) is divisible by 6, for any n>0
+math
+Prove that n*(n+1)*(2*n+1) is divisible by 6, for any n>0
+===
+Chessboard problem
+puzzle
+Given an 8x8 chessboard, 
+ * How many "total" number of squares are present in the board?
+ * How many "total" number of rectangles are preent in the board?
+  (for this problem assume that rectangles must have length and breadth 
+  different)
+===
+Stack find_min
+algorithms,coding
+Propose a data structure that supports the stack push and pop operations and a third operation find_min, which returns the smallest element in the data structure, all in O(1) worst case time.
+===
+Sorting colored arrays
+arrays,algorithms,coding
+Say we have a data structure as follows:
+
+enum {RED,BLUE,GREEN};
+struct Ball
+{
+        /*...*/
+        int color;
+};
+
+int ColorOfBall(Ball b)
+{
+        return b.color;
+}
+Ball arr[SIZE];
+
+The array arr consists of balls of with one of the three colours
+(Red,Green,Blue). Now we need to sort the array in such a way that all
+the Red coloured balls come first, followed by blue and then green.
+
+The restriction is that call to function ColorOfBall is a very costly
+operation. You have to use it as less as possible. (In other words we
+would be looking for the solution with least number of calls to the
+function ColorOfBall.)
+===
+Propose a data structure
+algorithms,coding
+Propose a data structure for the following:
+- The data structure would hold elements from 0 to N-1.
+  There is no order on the elements (no  ascending/descending order
+  requirement)
+
+The complexity of the operations should be as follows:
+* Initialization          - O(1)
+* Insertion of an element - O(1)
+* Deletion of an element  - O(1)
+* Finding a element       - O(1)
+* Deleting all elements   - O(1)
+===
+Skier puzzle
+puzzle,algorithms
+A skier must decide every day she goes skiing whether to rent or buy skis,
+unless or until she decides to buy them. The skier does not know how many
+days she will go on skiing before she gets tired of this hobby.
+Suggest a strategy for the skier minimizing her cost, given the cost of rent
+is 1 unit, cost to buy the skis is B units where B>>1.
+===
+Robot problem
+puzzle,math,algorithms
+Consider a point P(n,n) in the cartesian co-ordinate system
+A robot has to start from the origin and reach this point. The only steps
+the robot can take are :
+1 unit right
+1 unit up.
+
+How many different paths can the robot take to point P.
+Is there an optimal path to point P. (both up and right steps incur the same
+cost).
+===
+Multiple choice test
+probability
+A multiple choice test has 15 questions and 4 choices for each answer.
+Each question has only one answer correct.
+
+How many ways can the 15 questions be answered so that
+- Exactly 3 answers are correct
+- Atleast 3 answers are correct
+===
+Friday the 13th
+puzzle
+In a calendar year (assume non-leap), determine how many Friday the 
+thirteenths there can be. What is the smallest number possible?
+===
+PowerSet
+coding
+Write a Recursive function which generates the PowerSet of a given Set.
+
+The Set is passed to the Function as a String. And the Function should
+print the Subsets as Strings.
+
+[Note:]
+PowerSet( {1,2,3} ) = 0, 1, 2, 3, 12, 13, 23, 123      //0 is Null Set.
+And the Order of the SubSets is not Mandatory.
+
+Sample TestCase:
+I/P  :"abc"
+O/P:
+0
+a
+b
+ab
+c
+ac
+bc
+abc
+===
+Parity
+coding
+The "parity" of a number refers to whether it contains an odd or even
+number of 1-bits. The number has "odd parity", if it contains odd number
+of 1-bits and is "even parity", if it contains even number of 1-bits.
+
+Write a C program to find the parity of an unsigned integer.
+===
+Chicken-egg problem
+puzzle
+ I. The chicken came first.
+ II. The egg came first.
+III. Statement I is false and Statement II is true.
+
+If two of the above statements are false, what chance is there that the egg
+came first?
+===
+Sequence problem
+next in series
+Here is an interesting sequence..
+1 20 33 400 505 660 777 8000 9009 10100 11121
+What are the next few numbers in the above sequence?
+===
+Barbarians
+puzzle,probability
+You are travelling in the jungles of Africa, when you are caught by a
+tribe of barbarians. They allow you to choose between death or solving
+their great challenge. You know what you will choose ;)
+
+You are blindfolded and taken to a room, where you are asked to kneel.
+You feel hundreds of circular discs lying in front of you. You are told
+that one side of each disc is painted red, and the other, green. There
+are exactly 129 discs that currently are red side up. You have to
+divide the discs into two groups, such that each group has the same
+number of discs showing the red colour. Obviously, no peeking allowed.
+===
+Majority element
+coding,algorithms,arrays
+A majority element in an array A, of size N is an element that appears more than N/2 times (and hence there is atmost
+one such element)
+
+Write a function which takes an array and emits the majority element (if it exists), otherwise prints NONE as follows:
+
+ I/P : 3 3 4 2 4 4 2 4 4
+ O/P : 4
+
+ I/P : 3 3 4 2 4 4 2 4
+ O/P : NONE
+===
+Merging N companies
+puzzle
+Suppose we have N companies, and we want to eventually merge them into
+one big company. How many ways are there to merge? 
+===
+What\'s the difference between DELETE TABLE and TRUNCATE TABLE commands?
+mysql
+What\'s the difference between DELETE TABLE and TRUNCATE TABLE commands?
+===
+What is RAID and what are different types of RAID configurations?
+system
+What is RAID and what are different types of RAID configurations?
+===
+Which of the following are legal?
+coding,c,c++
+With these variable declarations: int i, j[10], *k;
+Which of the following are legal?
+
+    a. i = *(&(j[2]) + 1);
+    b. k = &(j[1]);
+    c. i = &(j[2]) + 1;
+
+===
+What’s wrong with this code?
+coding,c,c++
+Assuming the function lookupName is defined, what’s wrong with this code (hint: 2 bugs)?
+
+    const char *getName(const char *c) {
+        std::string name = lookupName(c);
+        if (name == NULL)
+            return "Anonymous";
+        return name.c_str();
+    }
+
+    int main(int argc, char *argv[]) {
+        const char *name = NULL, *c = NULL;
+        if (argc >= 2)
+            c = argv[1];
+        name = getName(c);
+
+        printf("My name is %s\n", name);
+        return 0;
+    }
+===
+Write a one line SQL statement
+sql
+Write a one line SQL statement that will give you a count of all rows in meebotable that have names with digits in them, but emails that contain only letters. meebotable contains two fields of type varchar(255): name and email.
+===
