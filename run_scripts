@@ -1,0 +1,2 @@
+php /home/prem/public_html/app_init.php;
+cat /home/prem/public_html/init_questions | php /home/prem/public_html/add_questions.php;
