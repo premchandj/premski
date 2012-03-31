@@ -350,7 +350,7 @@ function unescape_text(&$str)
 {
    $ret_str = "";
    $ret_str = html_entity_decode($str);
-   //asdasdasd $ret_str = stripslashes($ret_str);
+   //$ret_str = stripslashes($ret_str);
    //$ret_str  = str_replace('\r\n', '<br>', $ret_str);
    //$ret_str  = str_replace('\n', '<br>', $ret_str);
    return $ret_str;
